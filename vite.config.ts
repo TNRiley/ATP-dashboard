@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   // This is the correct base path for GitHub Actions
-  base: "/atp-player-dashboard/", 
+  base: "/ATP-dashboard/", 
   plugins: [react()],
   server: {
     port: 3000,
