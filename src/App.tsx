@@ -2,7 +2,7 @@
  * Main App Component with Routing
  */
 
-import { BrowserRouter, Routes, Route, Link, useLocation } from 'react-router-dom';
+import { HashRouter, Routes, Route, Link, useLocation } from 'react-router-dom';
 import { AnalyticsPage } from './pages/AnalyticsPage';
 import { UpsetScatterPage } from './pages/UpsetScatterPage';
 import { HeadToHeadPage } from './pages/HeadToHeadPage';
@@ -72,11 +72,10 @@ function AppContent() {
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <AppContent />
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
 export default App;
-
