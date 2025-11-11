@@ -1,0 +1,157 @@
+{
+  "name": "Nadal R. d. Djokovic N.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Nadal R.",
+    "loserName": "Djokovic N.",
+    "score": "7-5 1-6 6-3"
+  },
+  "children": [
+    {
+      "name": "Nadal R. d. Opelka R.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Nadal R.",
+        "loserName": "Opelka R.",
+        "score": "6-4 6-4"
+      },
+      "children": [
+        {
+          "name": "Nadal R. d. Zverev A.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Nadal R.",
+            "loserName": "Zverev A.",
+            "score": "6-3 6-4"
+          },
+          "children": [
+            {
+              "name": "Nadal R.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Nadal R.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Zverev A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Zverev A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Opelka R. d. Delbonis F.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Opelka R.",
+            "loserName": "Delbonis F.",
+            "score": "7-5 7-6"
+          },
+          "children": [
+            {
+              "name": "Opelka R.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Opelka R.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Delbonis F.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Delbonis F.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Djokovic N. d. Sonego L.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Djokovic N.",
+        "loserName": "Sonego L.",
+        "score": "6-3 6-7 6-2"
+      },
+      "children": [
+        {
+          "name": "Djokovic N. d. Tsitsipas S.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Djokovic N.",
+            "loserName": "Tsitsipas S.",
+            "score": "4-6 7-5 7-5"
+          },
+          "children": [
+            {
+              "name": "Djokovic N.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Djokovic N.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Tsitsipas S.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Tsitsipas S.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Sonego L. d. Rublev A.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Sonego L.",
+            "loserName": "Rublev A.",
+            "score": "3-6 6-4 6-3"
+          },
+          "children": [
+            {
+              "name": "Sonego L.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Sonego L.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Rublev A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Rublev A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

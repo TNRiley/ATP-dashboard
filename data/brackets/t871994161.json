@@ -1,0 +1,157 @@
+{
+  "name": "Griekspoor T. d. Thompson J.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Griekspoor T.",
+    "loserName": "Thompson J.",
+    "score": "6-7 7-6 6-3"
+  },
+  "children": [
+    {
+      "name": "Griekspoor T. d. Ruusuvuori E.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Griekspoor T.",
+        "loserName": "Ruusuvuori E.",
+        "score": "6-4 7-5"
+      },
+      "children": [
+        {
+          "name": "Griekspoor T. d. De Minaur A.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Griekspoor T.",
+            "loserName": "De Minaur A.",
+            "score": "4-6 6-3 6-4"
+          },
+          "children": [
+            {
+              "name": "Griekspoor T.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Griekspoor T.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "De Minaur A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "De Minaur A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Ruusuvuori E. d. Sinner J.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Ruusuvuori E.",
+            "loserName": "Sinner J.",
+            "score": "6-3 6-4"
+          },
+          "children": [
+            {
+              "name": "Ruusuvuori E.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Ruusuvuori E.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Sinner J.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Sinner J.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Thompson J. d. Hijikata R.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Thompson J.",
+        "loserName": "Hijikata R.",
+        "score": "7-6 6-3"
+      },
+      "children": [
+        {
+          "name": "Thompson J. d. Mannarino A.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Thompson J.",
+            "loserName": "Mannarino A.",
+            "score": "5-7 7-6 6-2"
+          },
+          "children": [
+            {
+              "name": "Thompson J.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Thompson J.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Mannarino A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Mannarino A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Hijikata R. d. Mcdonald M.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Hijikata R.",
+            "loserName": "Mcdonald M.",
+            "score": "5-7 6-3 6-1"
+          },
+          "children": [
+            {
+              "name": "Hijikata R.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Hijikata R.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Mcdonald M.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Mcdonald M.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

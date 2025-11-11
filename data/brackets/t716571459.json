@@ -1,0 +1,157 @@
+{
+  "name": "Griekspoor T. d. Bonzi B.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Griekspoor T.",
+    "loserName": "Bonzi B.",
+    "score": "4-6 7-5 6-3"
+  },
+  "children": [
+    {
+      "name": "Griekspoor T. d. Karatsev A.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Griekspoor T.",
+        "loserName": "Karatsev A.",
+        "score": "7-6 6-1"
+      },
+      "children": [
+        {
+          "name": "Griekspoor T. d. Cilic M.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Griekspoor T.",
+            "loserName": "Cilic M.",
+            "score": ""
+          },
+          "children": [
+            {
+              "name": "Griekspoor T.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Griekspoor T.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Cilic M.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Cilic M.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Karatsev A. d. Martinez P.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Karatsev A.",
+            "loserName": "Martinez P.",
+            "score": "6-1 6-2"
+          },
+          "children": [
+            {
+              "name": "Karatsev A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Karatsev A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Martinez P.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Martinez P.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bonzi B. d. Van De Zandschulp B.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Bonzi B.",
+        "loserName": "Van De Zandschulp B.",
+        "score": "7-6 6-7 6-1"
+      },
+      "children": [
+        {
+          "name": "Bonzi B. d. Krajinovic F.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Bonzi B.",
+            "loserName": "Krajinovic F.",
+            "score": "7-6 6-4"
+          },
+          "children": [
+            {
+              "name": "Bonzi B.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Bonzi B.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Krajinovic F.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Krajinovic F.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Van De Zandschulp B. d. Marterer M.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Van De Zandschulp B.",
+            "loserName": "Marterer M.",
+            "score": "6-4 6-2"
+          },
+          "children": [
+            {
+              "name": "Van De Zandschulp B.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Van De Zandschulp B.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Marterer M.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Marterer M.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2855 @@
+[
+  {
+    "id": "t1826923725",
+    "year": 2021,
+    "name": "Antalya Open",
+    "location": "Antalya",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1253826871",
+    "year": 2021,
+    "name": "Delray Beach Open",
+    "location": "Delray Beach",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1098539981",
+    "year": 2021,
+    "name": "Great Ocean Road Open",
+    "location": "Melbourne",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1839382090",
+    "year": 2021,
+    "name": "Murray River Open",
+    "location": "Melbourne",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1272661108",
+    "year": 2021,
+    "name": "Australian Open",
+    "location": "Melbourne",
+    "series": "Grand Slam",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1880235149",
+    "year": 2021,
+    "name": "Cordoba Open",
+    "location": "Cordoba",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1112224510",
+    "year": 2021,
+    "name": "Open Sud de France",
+    "location": "Montpellier",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1109269197",
+    "year": 2021,
+    "name": "Singapore Open",
+    "location": "Singapore",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t293419282",
+    "year": 2021,
+    "name": "Argentina Open",
+    "location": "Buenos Aires",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t2018354917",
+    "year": 2021,
+    "name": "ABN AMRO World Tennis Tournament",
+    "location": "Rotterdam",
+    "series": "ATP500",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t86568915",
+    "year": 2021,
+    "name": "Qatar Exxon Mobil Open",
+    "location": "Doha",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t302620967",
+    "year": 2021,
+    "name": "Open 13",
+    "location": "Marseille",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1598876676",
+    "year": 2021,
+    "name": "Chile Open",
+    "location": "Santiago",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1300803751",
+    "year": 2021,
+    "name": "Abierto Mexicano",
+    "location": "Acapulco",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1146056940",
+    "year": 2021,
+    "name": "Dubai Tennis Championships",
+    "location": "Dubai",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1056755923",
+    "year": 2021,
+    "name": "Miami Open",
+    "location": "Miami",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1752312474",
+    "year": 2021,
+    "name": "Sardegna Open",
+    "location": "Cagliari",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t53033589",
+    "year": 2021,
+    "name": "AnyTech365 Andalucia Open",
+    "location": "Marbella",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1896708316",
+    "year": 2021,
+    "name": "Monte Carlo Masters",
+    "location": "Monte Carlo",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1887443949",
+    "year": 2021,
+    "name": "Barcelona Open",
+    "location": "Barcelona",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t491515643",
+    "year": 2021,
+    "name": "Serbia Open",
+    "location": "Belgrade",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t246811797",
+    "year": 2021,
+    "name": "Millennium Estoril Open",
+    "location": "Estoril",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t858679399",
+    "year": 2021,
+    "name": "BMW Open",
+    "location": "Munich",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1193041301",
+    "year": 2021,
+    "name": "Mutua Madrid Open",
+    "location": "Madrid",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1860643390",
+    "year": 2021,
+    "name": "Internazionali BNL d'Italia",
+    "location": "Rome",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1825128269",
+    "year": 2021,
+    "name": "Geneva Open",
+    "location": "Geneva",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t878079435",
+    "year": 2021,
+    "name": "Lyon Open",
+    "location": "Lyon",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t900817841",
+    "year": 2021,
+    "name": "Belgrade Open",
+    "location": "Belgrade",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1686102493",
+    "year": 2021,
+    "name": "Emilia-Romagna Open",
+    "location": "Parma",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t270125470",
+    "year": 2021,
+    "name": "French Open",
+    "location": "Paris",
+    "series": "Grand Slam",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1950893977",
+    "year": 2021,
+    "name": "Mercedes Cup",
+    "location": "Stuttgart",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t826451533",
+    "year": 2021,
+    "name": "Halle Open",
+    "location": "Halle",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t948149022",
+    "year": 2021,
+    "name": "Queen's Club Championships",
+    "location": "Queens Club",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t292987811",
+    "year": 2021,
+    "name": "Viking International",
+    "location": "Eastbourne",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t1175593009",
+    "year": 2021,
+    "name": "Mallorca Championships",
+    "location": "Mallorca",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t87175314",
+    "year": 2021,
+    "name": "Wimbledon",
+    "location": "London",
+    "series": "Grand Slam",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t1036658629",
+    "year": 2021,
+    "name": "Nordea Open",
+    "location": "Bastad",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t434482150",
+    "year": 2021,
+    "name": "European Open",
+    "location": "Hamburg",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1480027513",
+    "year": 2021,
+    "name": "Hall of Fame Championships",
+    "location": "Newport",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t714031159",
+    "year": 2021,
+    "name": "Suisse Open Gstaad",
+    "location": "Gstaad",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t611425908",
+    "year": 2021,
+    "name": "Mifel Open",
+    "location": "Los Cabos",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t434072068",
+    "year": 2021,
+    "name": "Croatia Open",
+    "location": "Umag",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1668530817",
+    "year": 2021,
+    "name": "BB&T Atlanta Open",
+    "location": "Atlanta",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t457979708",
+    "year": 2021,
+    "name": "Generali Open",
+    "location": "Kitzbuhel",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t236675870",
+    "year": 2021,
+    "name": "Citi Open",
+    "location": "Washington",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t250329211",
+    "year": 2021,
+    "name": "Canadian Open",
+    "location": "Toronto",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t821015120",
+    "year": 2021,
+    "name": "Western & Southern Financial Group Masters",
+    "location": "Cincinnati",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t909445231",
+    "year": 2021,
+    "name": "Winston-Salem Open at Wake Forest University",
+    "location": "Winston-Salem",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t821669728",
+    "year": 2021,
+    "name": "US Open",
+    "location": "New York",
+    "series": "Grand Slam",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1500360211",
+    "year": 2021,
+    "name": "Open de Moselle",
+    "location": "Metz",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t75661310",
+    "year": 2021,
+    "name": "Astana Open",
+    "location": "Nur-Sultan",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t2045962675",
+    "year": 2021,
+    "name": "San Diego Open",
+    "location": "San Diego",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1750735731",
+    "year": 2021,
+    "name": "Sofia Open",
+    "location": "Sofia",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1196443617",
+    "year": 2021,
+    "name": "BNP Paribas Open",
+    "location": "Indian Wells",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1972786767",
+    "year": 2021,
+    "name": "European Open",
+    "location": "Antwerp",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1884790135",
+    "year": 2021,
+    "name": "Kremlin Cup",
+    "location": "Moscow",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t973653111",
+    "year": 2021,
+    "name": "St. Petersburg Open",
+    "location": "St. Petersburg",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1612762159",
+    "year": 2021,
+    "name": "Vienna Open",
+    "location": "Vienna",
+    "series": "ATP500",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t10239567",
+    "year": 2021,
+    "name": "BNP Paribas Masters",
+    "location": "Paris",
+    "series": "Masters",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t859680653",
+    "year": 2021,
+    "name": "Stockholm Open",
+    "location": "Stockholm",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t302280088",
+    "year": 2021,
+    "name": "Masters Cup",
+    "location": "Turin",
+    "series": "Masters",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t2047433345",
+    "year": 2022,
+    "name": "Adelaide International 1",
+    "location": "Adelaide",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t563827603",
+    "year": 2022,
+    "name": "Melbourne Summer Set",
+    "location": "Melbourne",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t2051020446",
+    "year": 2022,
+    "name": "Adelaide International 2",
+    "location": "Adelaide",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1158621353",
+    "year": 2022,
+    "name": "Sydney Tennis Classic",
+    "location": "Sydney",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t2060692171",
+    "year": 2022,
+    "name": "Australian Open",
+    "location": "Melbourne",
+    "series": "Grand Slam",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t157821140",
+    "year": 2022,
+    "name": "Cordoba Open",
+    "location": "Cordoba",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1172638945",
+    "year": 2022,
+    "name": "Open Sud de France",
+    "location": "Montpellier",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t528193022",
+    "year": 2022,
+    "name": "Maharashtra Open",
+    "location": "Pune",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t986520979",
+    "year": 2022,
+    "name": "Argentina Open",
+    "location": "Buenos Aires",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t721103120",
+    "year": 2022,
+    "name": "Dallas Open",
+    "location": "Dallas",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t993660996",
+    "year": 2022,
+    "name": "ABN AMRO World Tennis Tournament",
+    "location": "Rotterdam",
+    "series": "ATP500",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t756276970",
+    "year": 2022,
+    "name": "Delray Beach Open",
+    "location": "Delray Beach",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t779670612",
+    "year": 2022,
+    "name": "Qatar Exxon Mobil Open",
+    "location": "Doha",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t541850904",
+    "year": 2022,
+    "name": "Open 13",
+    "location": "Marseille",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1649525075",
+    "year": 2022,
+    "name": "Rio Open",
+    "location": "Rio de Janeiro",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t339189734",
+    "year": 2022,
+    "name": "Abierto Mexicano",
+    "location": "Acapulco",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t2123418357",
+    "year": 2022,
+    "name": "Dubai Tennis Championships",
+    "location": "Dubai",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1810227589",
+    "year": 2022,
+    "name": "Chile Open",
+    "location": "Santiago",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t845643680",
+    "year": 2022,
+    "name": "BNP Paribas Open",
+    "location": "Indian Wells",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t2053828276",
+    "year": 2022,
+    "name": "Miami Open",
+    "location": "Miami",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1917628150",
+    "year": 2022,
+    "name": "U.S. Men's Clay Court Championships",
+    "location": "Houston",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1616053619",
+    "year": 2022,
+    "name": "Grand Prix Hassan II",
+    "location": "Marrakech",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t286968611",
+    "year": 2022,
+    "name": "Monte Carlo Masters",
+    "location": "Monte Carlo",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1918463756",
+    "year": 2022,
+    "name": "Barcelona Open",
+    "location": "Barcelona",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1546540646",
+    "year": 2022,
+    "name": "Serbia Open",
+    "location": "Belgrade",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1936865130",
+    "year": 2022,
+    "name": "Millennium Estoril Open",
+    "location": "Estoril",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t2082978200",
+    "year": 2022,
+    "name": "BMW Open",
+    "location": "Munich",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1224061108",
+    "year": 2022,
+    "name": "Mutua Madrid Open",
+    "location": "Madrid",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t835151391",
+    "year": 2022,
+    "name": "Internazionali BNL d'Italia",
+    "location": "Rome",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t2061014802",
+    "year": 2022,
+    "name": "Geneva Open",
+    "location": "Geneva",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t367545258",
+    "year": 2022,
+    "name": "Lyon Open",
+    "location": "Lyon",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t574346401",
+    "year": 2022,
+    "name": "French Open",
+    "location": "Paris",
+    "series": "Grand Slam",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1053539150",
+    "year": 2022,
+    "name": "Rosmalen Grass Court Championships",
+    "location": "'s-Hertogenbosch",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t2017900730",
+    "year": 2022,
+    "name": "Mercedes Cup",
+    "location": "Stuttgart",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t170620820",
+    "year": 2022,
+    "name": "Halle Open",
+    "location": "Halle",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t1885238275",
+    "year": 2022,
+    "name": "Queen's Club Championships",
+    "location": "Queens Club",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t1216591184",
+    "year": 2022,
+    "name": "Eastbourne International",
+    "location": "Eastbourne",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t935697360",
+    "year": 2022,
+    "name": "Mallorca Championships",
+    "location": "Mallorca",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t909897039",
+    "year": 2022,
+    "name": "Wimbledon",
+    "location": "London",
+    "series": "Grand Slam",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t627834404",
+    "year": 2022,
+    "name": "Nordea Open",
+    "location": "Bastad",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t470272742",
+    "year": 2022,
+    "name": "Hall of Fame Championships",
+    "location": "Newport",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t247582858",
+    "year": 2022,
+    "name": "Suisse Open Gstaad",
+    "location": "Gstaad",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t810282331",
+    "year": 2022,
+    "name": "European Open",
+    "location": "Hamburg",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1400856564",
+    "year": 2022,
+    "name": "Atlanta Open",
+    "location": "Atlanta",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1759778245",
+    "year": 2022,
+    "name": "Generali Open",
+    "location": "Kitzbuhel",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1278543939",
+    "year": 2022,
+    "name": "Croatia Open",
+    "location": "Umag",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1694053228",
+    "year": 2022,
+    "name": "Los Cabos Open",
+    "location": "Los Cabos",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1801380419",
+    "year": 2022,
+    "name": "Citi Open",
+    "location": "Washington",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t321300837",
+    "year": 2022,
+    "name": "Canadian Open",
+    "location": "Montreal",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t127622415",
+    "year": 2022,
+    "name": "Western & Southern Financial Group Masters",
+    "location": "Cincinnati",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1010357198",
+    "year": 2022,
+    "name": "Winston-Salem Open at Wake Forest University",
+    "location": "Winston-Salem",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t175402625",
+    "year": 2022,
+    "name": "US Open",
+    "location": "New York",
+    "series": "Grand Slam",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t537696078",
+    "year": 2022,
+    "name": "Open de Moselle",
+    "location": "Metz",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t2014942868",
+    "year": 2022,
+    "name": "San Diego Open",
+    "location": "San Diego",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t738052278",
+    "year": 2022,
+    "name": "Korea Open",
+    "location": "Seoul",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1547159212",
+    "year": 2022,
+    "name": "Sofia Open",
+    "location": "Sofia",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t658822176",
+    "year": 2022,
+    "name": "Tel Aviv Open",
+    "location": "Tel Aviv",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t8654557",
+    "year": 2022,
+    "name": "Astana Open",
+    "location": "Nur-Sultan",
+    "series": "ATP500",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t102909709",
+    "year": 2022,
+    "name": "Rakuten Japan Open Tennis Championships",
+    "location": "Tokyo",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t704157867",
+    "year": 2022,
+    "name": "Firenze Open",
+    "location": "Florence",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t807391628",
+    "year": 2022,
+    "name": "Gijon Open",
+    "location": "Gijon",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t728022286",
+    "year": 2022,
+    "name": "European Open",
+    "location": "Antwerp",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1147051072",
+    "year": 2022,
+    "name": "Napoli Cup",
+    "location": "Napoli",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t890700460",
+    "year": 2022,
+    "name": "Stockholm Open",
+    "location": "Stockholm",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1385256124",
+    "year": 2022,
+    "name": "Swiss Indoors",
+    "location": "Basel",
+    "series": "ATP500",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t2021586384",
+    "year": 2022,
+    "name": "Vienna Open",
+    "location": "Vienna",
+    "series": "ATP500",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t971853584",
+    "year": 2022,
+    "name": "BNP Paribas Masters",
+    "location": "Paris",
+    "series": "Masters",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1146751959",
+    "year": 2022,
+    "name": "Masters Cup",
+    "location": "Turin",
+    "series": "Masters",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t321952448",
+    "year": 2023,
+    "name": "Adelaide International 1",
+    "location": "Adelaide",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t716571459",
+    "year": 2023,
+    "name": "Maharashtra Open",
+    "location": "Pune",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t518465953",
+    "year": 2023,
+    "name": "Adelaide International 2",
+    "location": "Adelaide",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t885654912",
+    "year": 2023,
+    "name": "ASB Classic",
+    "location": "Auckland",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1099078154",
+    "year": 2023,
+    "name": "Australian Open",
+    "location": "Melbourne",
+    "series": "Grand Slam",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t2099089867",
+    "year": 2023,
+    "name": "Cordoba Open",
+    "location": "Cordoba",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1129927345",
+    "year": 2023,
+    "name": "Dallas Open",
+    "location": "Dallas",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t837464896",
+    "year": 2023,
+    "name": "Open Sud de France",
+    "location": "Montpellier",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1679622676",
+    "year": 2023,
+    "name": "Argentina Open",
+    "location": "Buenos Aires",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1528586485",
+    "year": 2023,
+    "name": "Delray Beach Open",
+    "location": "Delray Beach",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t31032925",
+    "year": 2023,
+    "name": "ABN AMRO World Tennis Tournament",
+    "location": "Rotterdam",
+    "series": "ATP500",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1472772309",
+    "year": 2023,
+    "name": "Qatar Exxon Mobil Open",
+    "location": "Doha",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1386322775",
+    "year": 2023,
+    "name": "Open 13",
+    "location": "Marseille",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t568232878",
+    "year": 2023,
+    "name": "Rio Open",
+    "location": "Rio de Janeiro",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t622424283",
+    "year": 2023,
+    "name": "Abierto Mexicano",
+    "location": "Acapulco",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1097926358",
+    "year": 2023,
+    "name": "Dubai Tennis Championships",
+    "location": "Dubai",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t2021578502",
+    "year": 2023,
+    "name": "Chile Open",
+    "location": "Santiago",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t494843743",
+    "year": 2023,
+    "name": "BNP Paribas Open",
+    "location": "Indian Wells",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1244066667",
+    "year": 2023,
+    "name": "Miami Open",
+    "location": "Miami",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1032236213",
+    "year": 2023,
+    "name": "Estoril Open",
+    "location": "Estoril",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t216887671",
+    "year": 2023,
+    "name": "U.S. Men's Clay Court Championships",
+    "location": "Houston",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t668809836",
+    "year": 2023,
+    "name": "Grand Prix Hassan II",
+    "location": "Marrakech",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1824321758",
+    "year": 2023,
+    "name": "Monte Carlo Masters",
+    "location": "Monte Carlo",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1949483563",
+    "year": 2023,
+    "name": "Barcelona Open",
+    "location": "Barcelona",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t188310398",
+    "year": 2023,
+    "name": "Srpska Open",
+    "location": "Banja Luka",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t729668503",
+    "year": 2023,
+    "name": "BMW Open",
+    "location": "Munich",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1255080915",
+    "year": 2023,
+    "name": "Mutua Madrid Open",
+    "location": "Madrid",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t190340608",
+    "year": 2023,
+    "name": "Internazionali BNL d'Italia",
+    "location": "Rome",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1652190577",
+    "year": 2023,
+    "name": "Geneva Open",
+    "location": "Geneva",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t142988919",
+    "year": 2023,
+    "name": "Lyon Open",
+    "location": "Lyon",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1418818272",
+    "year": 2023,
+    "name": "French Open",
+    "location": "Paris",
+    "series": "Grand Slam",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t871994161",
+    "year": 2023,
+    "name": "Rosmalen Grass Court Championships",
+    "location": "'s-Hertogenbosch",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t891618187",
+    "year": 2023,
+    "name": "Stuttgart Open",
+    "location": "Stuttgart",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t1167693173",
+    "year": 2023,
+    "name": "Halle Open",
+    "location": "Halle",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t423658276",
+    "year": 2023,
+    "name": "Queen's Club Championships",
+    "location": "Queens Club",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t1546356945",
+    "year": 2023,
+    "name": "Eastbourne International",
+    "location": "Eastbourne",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t1247979567",
+    "year": 2023,
+    "name": "Mallorca Championships",
+    "location": "Mallorca",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t1906969392",
+    "year": 2023,
+    "name": "Wimbledon",
+    "location": "London",
+    "series": "Grand Slam",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t219010179",
+    "year": 2023,
+    "name": "Nordea Open",
+    "location": "Bastad",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1209196875",
+    "year": 2023,
+    "name": "Suisse Open Gstaad",
+    "location": "Gstaad",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1874394299",
+    "year": 2023,
+    "name": "Hall of Fame Championships",
+    "location": "Newport",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t856054443",
+    "year": 2023,
+    "name": "Atlanta Open",
+    "location": "Atlanta",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t2055046812",
+    "year": 2023,
+    "name": "European Open",
+    "location": "Hamburg",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t2123015810",
+    "year": 2023,
+    "name": "Croatia Open",
+    "location": "Umag",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t317431098",
+    "year": 2023,
+    "name": "Generali Open",
+    "location": "Kitzbuhel",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1725073035",
+    "year": 2023,
+    "name": "Los Cabos Open",
+    "location": "Los Cabos",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t455530588",
+    "year": 2023,
+    "name": "Citi Open",
+    "location": "Washington",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1555109123",
+    "year": 2023,
+    "name": "Canadian Open",
+    "location": "Toronto",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t565770290",
+    "year": 2023,
+    "name": "Western & Southern Financial Group Masters",
+    "location": "Cincinnati",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1111269165",
+    "year": 2023,
+    "name": "Winston-Salem Open at Wake Forest University",
+    "location": "Winston-Salem",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1172474978",
+    "year": 2023,
+    "name": "US Open",
+    "location": "New York",
+    "series": "Grand Slam",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1216744459",
+    "year": 2023,
+    "name": "Chengdu Open",
+    "location": "Chengdu",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1393842129",
+    "year": 2023,
+    "name": "Zhuhai Championships",
+    "location": "Zhuhai",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1762565138",
+    "year": 2023,
+    "name": "China Open",
+    "location": "Beijing",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t58352196",
+    "year": 2023,
+    "name": "Astana Open",
+    "location": "Nur-Sultan",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t110971982",
+    "year": 2023,
+    "name": "Shanghai Masters",
+    "location": "Shanghai",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t516742195",
+    "year": 2023,
+    "name": "European Open",
+    "location": "Antwerp",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1066452192",
+    "year": 2023,
+    "name": "Nordic Open",
+    "location": "Stockholm",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t888566064",
+    "year": 2023,
+    "name": "Japan Open Tennis Championships",
+    "location": "Tokyo",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1173905211",
+    "year": 2023,
+    "name": "Swiss Indoors",
+    "location": "Basel",
+    "series": "ATP500",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1864556687",
+    "year": 2023,
+    "name": "Vienna Open",
+    "location": "Vienna",
+    "series": "ATP500",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1933467601",
+    "year": 2023,
+    "name": "BNP Paribas Masters",
+    "location": "Paris",
+    "series": "Masters",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1719214929",
+    "year": 2023,
+    "name": "Open de Moselle",
+    "location": "Metz",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t550086859",
+    "year": 2023,
+    "name": "Sofia Open",
+    "location": "Sofia",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1991223830",
+    "year": 2023,
+    "name": "Masters Cup",
+    "location": "Turin",
+    "series": "Masters",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t474362321",
+    "year": 2023,
+    "name": "Brisbane International",
+    "location": "Brisbane",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1709314606",
+    "year": 2024,
+    "name": "Brisbane International",
+    "location": "Brisbane",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1667897327",
+    "year": 2024,
+    "name": "Hong Kong Tennis Open",
+    "location": "Hong Kong",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1732986254",
+    "year": 2024,
+    "name": "Adelaide International",
+    "location": "Adelaide",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1371256095",
+    "year": 2024,
+    "name": "ASB Classic",
+    "location": "Auckland",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t137464137",
+    "year": 2024,
+    "name": "Australian Open",
+    "location": "Melbourne",
+    "series": "Grand Slam",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1447398559",
+    "year": 2024,
+    "name": "Open Sud de France",
+    "location": "Montpellier",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t61033578",
+    "year": 2024,
+    "name": "Cordoba Open",
+    "location": "Cordoba",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1538751570",
+    "year": 2024,
+    "name": "Dallas Open",
+    "location": "Dallas",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t2064172650",
+    "year": 2024,
+    "name": "Open 13",
+    "location": "Marseille",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1922242923",
+    "year": 2024,
+    "name": "Argentina Open",
+    "location": "Buenos Aires",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t481517356",
+    "year": 2024,
+    "name": "Delray Beach Open",
+    "location": "Delray Beach",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1055726846",
+    "year": 2024,
+    "name": "ABN AMRO World Tennis Tournament",
+    "location": "Rotterdam",
+    "series": "ATP500",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t2129093290",
+    "year": 2024,
+    "name": "Qatar Exxon Mobil Open",
+    "location": "Doha",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1756092842",
+    "year": 2024,
+    "name": "Los Cabos Open",
+    "location": "Los Cabos",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1508976465",
+    "year": 2024,
+    "name": "Rio Open",
+    "location": "Rio de Janeiro",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1584038300",
+    "year": 2024,
+    "name": "Abierto Mexicano",
+    "location": "Acapulco",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t72434359",
+    "year": 2024,
+    "name": "Dubai Tennis Championships",
+    "location": "Dubai",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t2062037881",
+    "year": 2024,
+    "name": "Chile Open",
+    "location": "Santiago",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t144043806",
+    "year": 2024,
+    "name": "BNP Paribas Open",
+    "location": "Indian Wells",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t246994314",
+    "year": 2024,
+    "name": "Miami Open",
+    "location": "Miami",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1224674794",
+    "year": 2024,
+    "name": "Estoril Open",
+    "location": "Estoril",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1483852808",
+    "year": 2024,
+    "name": "U.S. Men's Clay Court Championships",
+    "location": "Houston",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1341294005",
+    "year": 2024,
+    "name": "Grand Prix Hassan II",
+    "location": "Marrakech",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t359355169",
+    "year": 2024,
+    "name": "Monte Carlo Masters",
+    "location": "Monte Carlo",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1980503370",
+    "year": 2024,
+    "name": "Barcelona Open",
+    "location": "Barcelona",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1451280287",
+    "year": 2024,
+    "name": "Tiriac Open",
+    "location": "Bucharest",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t623641194",
+    "year": 2024,
+    "name": "BMW Open",
+    "location": "Munich",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1286100722",
+    "year": 2024,
+    "name": "Mutua Madrid Open",
+    "location": "Madrid",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1215832607",
+    "year": 2024,
+    "name": "Internazionali BNL d'Italia",
+    "location": "Rome",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1243366352",
+    "year": 2024,
+    "name": "Geneva Open",
+    "location": "Geneva",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t653523096",
+    "year": 2024,
+    "name": "Lyon Open",
+    "location": "Lyon",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t2031677153",
+    "year": 2024,
+    "name": "French Open",
+    "location": "Paris",
+    "series": "Grand Slam",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t922637994",
+    "year": 2024,
+    "name": "Stuttgart Open",
+    "location": "Stuttgart",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t1497439824",
+    "year": 2024,
+    "name": "Rosmalen Grass Court Championships",
+    "location": "'s-Hertogenbosch",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t2130201770",
+    "year": 2024,
+    "name": "Halle Open",
+    "location": "Halle",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t1037921723",
+    "year": 2024,
+    "name": "Queen's Club Championships",
+    "location": "Queens Club",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t1876122706",
+    "year": 2024,
+    "name": "Eastbourne International",
+    "location": "Eastbourne",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t863310802",
+    "year": 2024,
+    "name": "Mallorca Championships",
+    "location": "Mallorca",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t1390925551",
+    "year": 2024,
+    "name": "Wimbledon",
+    "location": "London",
+    "series": "Grand Slam",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t189814046",
+    "year": 2024,
+    "name": "Nordea Open",
+    "location": "Bastad",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t2124156404",
+    "year": 2024,
+    "name": "Suisse Open Gstaad",
+    "location": "Gstaad",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t995156003",
+    "year": 2024,
+    "name": "European Open",
+    "location": "Hamburg",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t75905956",
+    "year": 2024,
+    "name": "Hall of Fame Championships",
+    "location": "Newport",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t1182001846",
+    "year": 2024,
+    "name": "Atlanta Open",
+    "location": "Atlanta",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1900326855",
+    "year": 2024,
+    "name": "Generali Open",
+    "location": "Kitzbuhel",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1327479615",
+    "year": 2024,
+    "name": "Croatia Open",
+    "location": "Umag",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1582525701",
+    "year": 2024,
+    "name": "Citi Open",
+    "location": "Washington",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t455314343",
+    "year": 2024,
+    "name": "Canadian Open",
+    "location": "Montreal",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1259162995",
+    "year": 2024,
+    "name": "Western & Southern Financial Group Masters",
+    "location": "Cincinnati",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1212181132",
+    "year": 2024,
+    "name": "Winston-Salem Open at Wake Forest University",
+    "location": "Winston-Salem",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t2125419965",
+    "year": 2024,
+    "name": "US Open",
+    "location": "New York",
+    "series": "Grand Slam",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t821311830",
+    "year": 2024,
+    "name": "Chengdu Open",
+    "location": "Chengdu",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t912236772",
+    "year": 2024,
+    "name": "Hangzhou Open",
+    "location": "Hangzhou",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1353740913",
+    "year": 2024,
+    "name": "China Open",
+    "location": "Beijing",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1811249647",
+    "year": 2024,
+    "name": "Japan Open Tennis Championships",
+    "location": "Tokyo",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1072585999",
+    "year": 2024,
+    "name": "Shanghai Masters",
+    "location": "Shanghai",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t688429144",
+    "year": 2024,
+    "name": "Almaty Open",
+    "location": "Almaty",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1761506676",
+    "year": 2024,
+    "name": "European Open",
+    "location": "Antwerp",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t178312289",
+    "year": 2024,
+    "name": "Nordic Open",
+    "location": "Stockholm",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t962554298",
+    "year": 2024,
+    "name": "Swiss Indoors",
+    "location": "Basel",
+    "series": "ATP500",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1455732462",
+    "year": 2024,
+    "name": "Vienna Open",
+    "location": "Vienna",
+    "series": "ATP500",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1399885678",
+    "year": 2024,
+    "name": "BNP Paribas Masters",
+    "location": "Paris",
+    "series": "Masters",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1101838100",
+    "year": 2024,
+    "name": "Belgrade Open",
+    "location": "Belgrade",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t318841360",
+    "year": 2024,
+    "name": "Open de Moselle",
+    "location": "Metz",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1459271595",
+    "year": 2024,
+    "name": "Masters Cup",
+    "location": "Turin",
+    "series": "Masters",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t401975763",
+    "year": 2025,
+    "name": "Brisbane International",
+    "location": "Brisbane",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t515779600",
+    "year": 2025,
+    "name": "Hong Kong Tennis Open",
+    "location": "Hong Kong",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t378304115",
+    "year": 2025,
+    "name": "Adelaide International",
+    "location": "Adelaide",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t666800194",
+    "year": 2025,
+    "name": "ASB Classic",
+    "location": "Auckland",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t824149880",
+    "year": 2025,
+    "name": "Australian Open",
+    "location": "Melbourne",
+    "series": "Grand Slam",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t562705282",
+    "year": 2025,
+    "name": "Open Sud de France",
+    "location": "Montpellier",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1947575795",
+    "year": 2025,
+    "name": "Dallas Open",
+    "location": "Dallas",
+    "series": "ATP500",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t2080420767",
+    "year": 2025,
+    "name": "ABN AMRO World Tennis Tournament",
+    "location": "Rotterdam",
+    "series": "ATP500",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1229141226",
+    "year": 2025,
+    "name": "Argentina Open",
+    "location": "Buenos Aires",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1803346099",
+    "year": 2025,
+    "name": "Delray Beach Open",
+    "location": "Delray Beach",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1219700779",
+    "year": 2025,
+    "name": "Open 13",
+    "location": "Marseille",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1435991593",
+    "year": 2025,
+    "name": "Qatar Exxon Mobil Open",
+    "location": "Doha",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t708781488",
+    "year": 2025,
+    "name": "Rio Open",
+    "location": "Rio de Janeiro",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1749314979",
+    "year": 2025,
+    "name": "Abierto Mexicano",
+    "location": "Acapulco",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t953057640",
+    "year": 2025,
+    "name": "Dubai Tennis Championships",
+    "location": "Dubai",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1850686968",
+    "year": 2025,
+    "name": "Chile Open",
+    "location": "Santiago",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t206756131",
+    "year": 2025,
+    "name": "BNP Paribas Open",
+    "location": "Indian Wells",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t750078039",
+    "year": 2025,
+    "name": "Miami Open",
+    "location": "Miami",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1598922528",
+    "year": 2025,
+    "name": "Tiriac Open",
+    "location": "Bucharest",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1217295833",
+    "year": 2025,
+    "name": "U.S.Men's Clay Court Championships",
+    "location": "Houston",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t943569450",
+    "year": 2025,
+    "name": "Grand Prix Hassan II",
+    "location": "Marrakech",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1751935200",
+    "year": 2025,
+    "name": "Monte Carlo Masters",
+    "location": "Monte Carlo",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t2011523177",
+    "year": 2025,
+    "name": "Barcelona Open",
+    "location": "Barcelona",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1976950891",
+    "year": 2025,
+    "name": "BMW Open",
+    "location": "Munich",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1317120529",
+    "year": 2025,
+    "name": "Mutua Madrid Open",
+    "location": "Madrid",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t2053642690",
+    "year": 2025,
+    "name": "Internazionali BNL d'Italia",
+    "location": "Rome",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t834542127",
+    "year": 2025,
+    "name": "Geneva Open",
+    "location": "Geneva",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t2071745161",
+    "year": 2025,
+    "name": "Hamburg Open",
+    "location": "Hamburg",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1187205282",
+    "year": 2025,
+    "name": "French Open",
+    "location": "Paris",
+    "series": "Grand Slam",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t953657801",
+    "year": 2025,
+    "name": "Stuttgart Open",
+    "location": "Stuttgart",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t428093487",
+    "year": 2025,
+    "name": "Rosmalen Grass Court Championships",
+    "location": "'s-Hertogenbosch",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t1133129417",
+    "year": 2025,
+    "name": "Halle Open",
+    "location": "Halle",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t1795465574",
+    "year": 2025,
+    "name": "Queen's Club Championships",
+    "location": "Queens Club",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t2089078829",
+    "year": 2025,
+    "name": "Eastbourne International",
+    "location": "Eastbourne",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t1320366125",
+    "year": 2025,
+    "name": "Mallorca Championships",
+    "location": "Mallorca",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t393853198",
+    "year": 2025,
+    "name": "Wimbledon",
+    "location": "London",
+    "series": "Grand Slam",
+    "court": "Outdoor",
+    "surface": "Grass"
+  },
+  {
+    "id": "t598638271",
+    "year": 2025,
+    "name": "Nordea Open",
+    "location": "Bastad",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1162542387",
+    "year": 2025,
+    "name": "Suisse Open Gstaad",
+    "location": "Gstaad",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t1787112649",
+    "year": 2025,
+    "name": "Los Cabos Open",
+    "location": "Los Cabos",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t176882488",
+    "year": 2025,
+    "name": "Generali Open",
+    "location": "Kitzbuhel",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t483007744",
+    "year": 2025,
+    "name": "Croatia Open",
+    "location": "Umag",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Clay"
+  },
+  {
+    "id": "t674385306",
+    "year": 2025,
+    "name": "Citi Open",
+    "location": "Washington",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t934419839",
+    "year": 2025,
+    "name": "Canadian Open",
+    "location": "Toronto",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1952555700",
+    "year": 2025,
+    "name": "Western & Southern Financial Group Masters",
+    "location": "Cincinnati",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1313093099",
+    "year": 2025,
+    "name": "Winston-Salem Open at Wake Forest University",
+    "location": "Winston-Salem",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1128347612",
+    "year": 2025,
+    "name": "US Open",
+    "location": "New York",
+    "series": "Grand Slam",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1435599177",
+    "year": 2025,
+    "name": "Chengdu Open",
+    "location": "Chengdu",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t979243525",
+    "year": 2025,
+    "name": "Hangzhou Open",
+    "location": "Hangzhou",
+    "series": "ATP250",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t944916688",
+    "year": 2025,
+    "name": "China Open",
+    "location": "Beijing",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1561034066",
+    "year": 2025,
+    "name": "Japan Open Tennis Championships",
+    "location": "Tokyo",
+    "series": "ATP500",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t2034200016",
+    "year": 2025,
+    "name": "Shanghai Masters",
+    "location": "Shanghai",
+    "series": "Masters",
+    "court": "Outdoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t279604919",
+    "year": 2025,
+    "name": "Almaty Open",
+    "location": "Almaty",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t271677243",
+    "year": 2025,
+    "name": "European Open",
+    "location": "Brussels",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1423076770",
+    "year": 2025,
+    "name": "Nordic Open",
+    "location": "Stockholm",
+    "series": "ATP250",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t751203385",
+    "year": 2025,
+    "name": "Swiss Indoors",
+    "location": "Basel",
+    "series": "ATP500",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t1046908237",
+    "year": 2025,
+    "name": "Vienna Open",
+    "location": "Vienna",
+    "series": "ATP500",
+    "court": "Indoor",
+    "surface": "Hard"
+  },
+  {
+    "id": "t438271661",
+    "year": 2025,
+    "name": "BNP Paribas Masters",
+    "location": "Paris",
+    "series": "Masters",
+    "court": "Indoor",
+    "surface": "Hard"
+  }
+]

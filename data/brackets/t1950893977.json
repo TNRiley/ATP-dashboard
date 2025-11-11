@@ -1,0 +1,157 @@
+{
+  "name": "Cilic M. d. Auger-Aliassime F.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Cilic M.",
+    "loserName": "Auger-Aliassime F.",
+    "score": "7-6 6-3"
+  },
+  "children": [
+    {
+      "name": "Cilic M. d. Rodionov J.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Cilic M.",
+        "loserName": "Rodionov J.",
+        "score": "6-3 1-0 (RET)"
+      },
+      "children": [
+        {
+          "name": "Cilic M. d. Shapovalov D.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Cilic M.",
+            "loserName": "Shapovalov D.",
+            "score": "7-5 7-6"
+          },
+          "children": [
+            {
+              "name": "Cilic M.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Cilic M.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Shapovalov D.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Shapovalov D.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Rodionov J. d. De Minaur A.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Rodionov J.",
+            "loserName": "De Minaur A.",
+            "score": "3-6 6-3 7-6"
+          },
+          "children": [
+            {
+              "name": "Rodionov J.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Rodionov J.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "De Minaur A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "De Minaur A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Auger-Aliassime F. d. Querrey S.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Auger-Aliassime F.",
+        "loserName": "Querrey S.",
+        "score": "6-4 7-5"
+      },
+      "children": [
+        {
+          "name": "Auger-Aliassime F. d. Humbert U.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Auger-Aliassime F.",
+            "loserName": "Humbert U.",
+            "score": "7-6 7-6"
+          },
+          "children": [
+            {
+              "name": "Auger-Aliassime F.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Auger-Aliassime F.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Humbert U.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Humbert U.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Querrey S. d. Stricker D.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Querrey S.",
+            "loserName": "Stricker D.",
+            "score": "6-7 7-6 6-3"
+          },
+          "children": [
+            {
+              "name": "Querrey S.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Querrey S.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Stricker D.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Stricker D.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "name": "Ramos-Vinolas A. d. Tabilo A.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Ramos-Vinolas A.",
+    "loserName": "Tabilo A.",
+    "score": "4-6 6-3 6-4"
+  },
+  "children": [
+    {
+      "name": "Ramos-Vinolas A. d. Londero J.I.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Ramos-Vinolas A.",
+        "loserName": "Londero J.I.",
+        "score": "7-6 6-4"
+      },
+      "children": [
+        {
+          "name": "Ramos-Vinolas A. d. Sonego L.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Ramos-Vinolas A.",
+            "loserName": "Sonego L.",
+            "score": "7-6 7-5"
+          },
+          "children": [
+            {
+              "name": "Ramos-Vinolas A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Ramos-Vinolas A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Sonego L.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Sonego L.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Londero J.I. d. Milojevic N.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Londero J.I.",
+            "loserName": "Milojevic N.",
+            "score": "6-4 7-5"
+          },
+          "children": [
+            {
+              "name": "Londero J.I.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Londero J.I.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Milojevic N.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Milojevic N.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tabilo A. d. Schwartzman D.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Tabilo A.",
+        "loserName": "Schwartzman D.",
+        "score": "6-3 7-6"
+      },
+      "children": [
+        {
+          "name": "Tabilo A. d. Baez S.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Tabilo A.",
+            "loserName": "Baez S.",
+            "score": "6-1 7-6"
+          },
+          "children": [
+            {
+              "name": "Tabilo A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Tabilo A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Baez S.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Baez S.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Schwartzman D. d. Galan D.E.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Schwartzman D.",
+            "loserName": "Galan D.E.",
+            "score": "3-6 6-0 7-5"
+          },
+          "children": [
+            {
+              "name": "Schwartzman D.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Schwartzman D.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Galan D.E.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Galan D.E.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "name": "Van Rijthoven T. d. Medvedev D.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Van Rijthoven T.",
+    "loserName": "Medvedev D.",
+    "score": "6-4 6-1"
+  },
+  "children": [
+    {
+      "name": "Van Rijthoven T. d. Auger-Aliassime F.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Van Rijthoven T.",
+        "loserName": "Auger-Aliassime F.",
+        "score": "6-3 1-6 7-6"
+      },
+      "children": [
+        {
+          "name": "Van Rijthoven T. d. Gaston H.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Van Rijthoven T.",
+            "loserName": "Gaston H.",
+            "score": "7-6 6-4"
+          },
+          "children": [
+            {
+              "name": "Van Rijthoven T.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Van Rijthoven T.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Gaston H.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Gaston H.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Auger-Aliassime F. d. Khachanov K.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Auger-Aliassime F.",
+            "loserName": "Khachanov K.",
+            "score": "7-6 6-4"
+          },
+          "children": [
+            {
+              "name": "Auger-Aliassime F.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Auger-Aliassime F.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Khachanov K.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Khachanov K.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Medvedev D. d. Mannarino A.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Medvedev D.",
+        "loserName": "Mannarino A.",
+        "score": "7-5 7-5"
+      },
+      "children": [
+        {
+          "name": "Medvedev D. d. Ivashka I.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Medvedev D.",
+            "loserName": "Ivashka I.",
+            "score": "7-6 6-4"
+          },
+          "children": [
+            {
+              "name": "Medvedev D.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Medvedev D.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Ivashka I.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Ivashka I.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Mannarino A. d. Nakashima B.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Mannarino A.",
+            "loserName": "Nakashima B.",
+            "score": "6-7 6-1 6-4"
+          },
+          "children": [
+            {
+              "name": "Mannarino A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Mannarino A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Nakashima B.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Nakashima B.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

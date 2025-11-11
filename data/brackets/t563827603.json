@@ -1,0 +1,157 @@
+{
+  "name": "Nadal R. d. Cressy M.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Nadal R.",
+    "loserName": "Cressy M.",
+    "score": "7-6 6-3"
+  },
+  "children": [
+    {
+      "name": "Nadal R. d. Ruusuvuori E.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Nadal R.",
+        "loserName": "Ruusuvuori E.",
+        "score": "6-4 7-5"
+      },
+      "children": [
+        {
+          "name": "Nadal R. d. Griekspoor T.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Nadal R.",
+            "loserName": "Griekspoor T.",
+            "score": ""
+          },
+          "children": [
+            {
+              "name": "Nadal R.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Nadal R.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Griekspoor T.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Griekspoor T.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Ruusuvuori E. d. Molcan A.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Ruusuvuori E.",
+            "loserName": "Molcan A.",
+            "score": "6-2 6-1"
+          },
+          "children": [
+            {
+              "name": "Ruusuvuori E.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Ruusuvuori E.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Molcan A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Molcan A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cressy M. d. Dimitrov G.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Cressy M.",
+        "loserName": "Dimitrov G.",
+        "score": "7-5 7-6"
+      },
+      "children": [
+        {
+          "name": "Cressy M. d. Munar J.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Cressy M.",
+            "loserName": "Munar J.",
+            "score": "7-6 6-4"
+          },
+          "children": [
+            {
+              "name": "Cressy M.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Cressy M.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Munar J.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Munar J.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Dimitrov G. d. Van De Zandschulp B.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Dimitrov G.",
+            "loserName": "Van De Zandschulp B.",
+            "score": "6-7 6-0 7-5"
+          },
+          "children": [
+            {
+              "name": "Dimitrov G.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Dimitrov G.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Van De Zandschulp B.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Van De Zandschulp B.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

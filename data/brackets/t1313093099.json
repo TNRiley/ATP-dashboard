@@ -1,0 +1,157 @@
+{
+  "name": "Fucsovics M. d. Van De Zandschulp B.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Fucsovics M.",
+    "loserName": "Van De Zandschulp B.",
+    "score": "6-3 7-6"
+  },
+  "children": [
+    {
+      "name": "Fucsovics M. d. Korda S.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Fucsovics M.",
+        "loserName": "Korda S.",
+        "score": ""
+      },
+      "children": [
+        {
+          "name": "Fucsovics M. d. Munar J.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Fucsovics M.",
+            "loserName": "Munar J.",
+            "score": "7-5 6-3"
+          },
+          "children": [
+            {
+              "name": "Fucsovics M.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Fucsovics M.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Munar J.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Munar J.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Korda S. d. Kecmanovic M.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Korda S.",
+            "loserName": "Kecmanovic M.",
+            "score": "6-1 6-4"
+          },
+          "children": [
+            {
+              "name": "Korda S.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Korda S.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Kecmanovic M.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Kecmanovic M.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Van De Zandschulp B. d. Mpetshi G.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Van De Zandschulp B.",
+        "loserName": "Mpetshi G.",
+        "score": "6-4 7-5"
+      },
+      "children": [
+        {
+          "name": "Van De Zandschulp B. d. Bu Y.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Van De Zandschulp B.",
+            "loserName": "Bu Y.",
+            "score": "6-3 5-7 6-3"
+          },
+          "children": [
+            {
+              "name": "Van De Zandschulp B.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Van De Zandschulp B.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Bu Y.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Bu Y.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Mpetshi G. d. Medjedovic H.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Mpetshi G.",
+            "loserName": "Medjedovic H.",
+            "score": "7-6 6-2"
+          },
+          "children": [
+            {
+              "name": "Mpetshi G.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Mpetshi G.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Medjedovic H.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Medjedovic H.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

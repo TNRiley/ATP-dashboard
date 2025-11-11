@@ -1,0 +1,157 @@
+{
+  "name": "Sinner J. d. Cressy M.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Sinner J.",
+    "loserName": "Cressy M.",
+    "score": "7-6 6-3"
+  },
+  "children": [
+    {
+      "name": "Sinner J. d. Fils A.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Sinner J.",
+        "loserName": "Fils A.",
+        "score": "7-5 6-2"
+      },
+      "children": [
+        {
+          "name": "Sinner J. d. Sonego L.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Sinner J.",
+            "loserName": "Sonego L.",
+            "score": "6-4 6-2"
+          },
+          "children": [
+            {
+              "name": "Sinner J.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Sinner J.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Sonego L.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Sonego L.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Fils A. d. Halys Q.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Fils A.",
+            "loserName": "Halys Q.",
+            "score": "7-6 6-3"
+          },
+          "children": [
+            {
+              "name": "Fils A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Fils A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Halys Q.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Halys Q.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cressy M. d. Rune H.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Cressy M.",
+        "loserName": "Rune H.",
+        "score": "7-5 6-7 7-6"
+      },
+      "children": [
+        {
+          "name": "Cressy M. d. Coric B.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Cressy M.",
+            "loserName": "Coric B.",
+            "score": "7-6 6-4"
+          },
+          "children": [
+            {
+              "name": "Cressy M.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Cressy M.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Coric B.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Coric B.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Rune H. d. Barrere G.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Rune H.",
+            "loserName": "Barrere G.",
+            "score": "7-6 7-6"
+          },
+          "children": [
+            {
+              "name": "Rune H.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Rune H.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Barrere G.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Barrere G.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

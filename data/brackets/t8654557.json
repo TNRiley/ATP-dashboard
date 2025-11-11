@@ -1,0 +1,157 @@
+{
+  "name": "Djokovic N. d. Tsitsipas S.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Djokovic N.",
+    "loserName": "Tsitsipas S.",
+    "score": "6-3 6-4"
+  },
+  "children": [
+    {
+      "name": "Djokovic N. d. Medvedev D.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Djokovic N.",
+        "loserName": "Medvedev D.",
+        "score": "4-6 7-6 (RET)"
+      },
+      "children": [
+        {
+          "name": "Djokovic N. d. Khachanov K.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Djokovic N.",
+            "loserName": "Khachanov K.",
+            "score": "6-4 6-3"
+          },
+          "children": [
+            {
+              "name": "Djokovic N.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Djokovic N.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Khachanov K.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Khachanov K.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Medvedev D. d. Bautista Agut R.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Medvedev D.",
+            "loserName": "Bautista Agut R.",
+            "score": "6-1 6-1"
+          },
+          "children": [
+            {
+              "name": "Medvedev D.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Medvedev D.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Bautista Agut R.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Bautista Agut R.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tsitsipas S. d. Rublev A.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Tsitsipas S.",
+        "loserName": "Rublev A.",
+        "score": "4-6 6-4 6-3"
+      },
+      "children": [
+        {
+          "name": "Tsitsipas S. d. Hurkacz H.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Tsitsipas S.",
+            "loserName": "Hurkacz H.",
+            "score": "7-6 6-3"
+          },
+          "children": [
+            {
+              "name": "Tsitsipas S.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Tsitsipas S.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Hurkacz H.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Hurkacz H.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Rublev A. d. Mannarino A.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Rublev A.",
+            "loserName": "Mannarino A.",
+            "score": "6-1 6-2"
+          },
+          "children": [
+            {
+              "name": "Rublev A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Rublev A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Mannarino A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Mannarino A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

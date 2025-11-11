@@ -1,0 +1,2677 @@
+{
+  "name": "Alcaraz C. d. Djokovic N.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Alcaraz C.",
+    "loserName": "Djokovic N.",
+    "score": "1-6 7-6 6-1 3-6 6-4"
+  },
+  "children": [
+    {
+      "name": "Alcaraz C. d. Medvedev D.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Alcaraz C.",
+        "loserName": "Medvedev D.",
+        "score": "6-3 6-3 6-3"
+      },
+      "children": [
+        {
+          "name": "Alcaraz C. d. Rune H.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Alcaraz C.",
+            "loserName": "Rune H.",
+            "score": "7-6 6-4 6-4"
+          },
+          "children": [
+            {
+              "name": "Alcaraz C. d. Berrettini M.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Alcaraz C.",
+                "loserName": "Berrettini M.",
+                "score": "3-6 6-3 6-3 6-3"
+              },
+              "children": [
+                {
+                  "name": "Alcaraz C. d. Jarry N.",
+                  "attributes": {
+                    "round": "3R",
+                    "winnerName": "Alcaraz C.",
+                    "loserName": "Jarry N.",
+                    "score": "6-3 6-7 6-3 7-5"
+                  },
+                  "children": [
+                    {
+                      "name": "Alcaraz C. d. Muller A.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Alcaraz C.",
+                        "loserName": "Muller A.",
+                        "score": "6-4 7-6 6-3"
+                      },
+                      "children": [
+                        {
+                          "name": "Alcaraz C. d. Chardy J.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Alcaraz C.",
+                            "loserName": "Chardy J.",
+                            "score": "6-0 6-2 7-5"
+                          },
+                          "children": [
+                            {
+                              "name": "Alcaraz C.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Alcaraz C.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Chardy J.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Chardy J.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Muller A. d. Rinderknech A.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Muller A.",
+                            "loserName": "Rinderknech A.",
+                            "score": "7-6 1-6 6-3 6-4"
+                          },
+                          "children": [
+                            {
+                              "name": "Muller A.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Muller A.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Rinderknech A.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Rinderknech A.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Jarry N. d. Kubler J.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Jarry N.",
+                        "loserName": "Kubler J.",
+                        "score": "7-5 5-7 6-3 6-4"
+                      },
+                      "children": [
+                        {
+                          "name": "Jarry N. d. Cecchinato M.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Jarry N.",
+                            "loserName": "Cecchinato M.",
+                            "score": "4-6 6-2 6-4 6-1"
+                          },
+                          "children": [
+                            {
+                              "name": "Jarry N.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Jarry N.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Cecchinato M.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Cecchinato M.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Kubler J. d. Humbert U.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Kubler J.",
+                            "loserName": "Humbert U.",
+                            "score": "6-4 4-6 6-2 3-6 6-3"
+                          },
+                          "children": [
+                            {
+                              "name": "Kubler J.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Kubler J.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Humbert U.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Humbert U.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Berrettini M. d. Zverev A.",
+                  "attributes": {
+                    "round": "3R",
+                    "winnerName": "Berrettini M.",
+                    "loserName": "Zverev A.",
+                    "score": "6-3 7-6 7-6"
+                  },
+                  "children": [
+                    {
+                      "name": "Berrettini M. d. De Minaur A.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Berrettini M.",
+                        "loserName": "De Minaur A.",
+                        "score": "6-3 6-4 6-4"
+                      },
+                      "children": [
+                        {
+                          "name": "Berrettini M. d. Sonego L.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Berrettini M.",
+                            "loserName": "Sonego L.",
+                            "score": "6-7 6-3 7-6 6-3"
+                          },
+                          "children": [
+                            {
+                              "name": "Berrettini M.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Berrettini M.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Sonego L.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Sonego L.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "De Minaur A. d. Coppejans K.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "De Minaur A.",
+                            "loserName": "Coppejans K.",
+                            "score": "6-7 6-3 6-3 7-6"
+                          },
+                          "children": [
+                            {
+                              "name": "De Minaur A.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "De Minaur A.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Coppejans K.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Coppejans K.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Zverev A. d. Watanuki Y.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Zverev A.",
+                        "loserName": "Watanuki Y.",
+                        "score": "6-4 5-7 6-2 6-2"
+                      },
+                      "children": [
+                        {
+                          "name": "Zverev A. d. Brouwer G.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Zverev A.",
+                            "loserName": "Brouwer G.",
+                            "score": "6-4 7-6 7-6"
+                          },
+                          "children": [
+                            {
+                              "name": "Zverev A.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Zverev A.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Brouwer G.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Brouwer G.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Watanuki Y. d. Huesler M.A.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Watanuki Y.",
+                            "loserName": "Huesler M.A.",
+                            "score": "6-7 5-7 7-6 7-6 6-3"
+                          },
+                          "children": [
+                            {
+                              "name": "Watanuki Y.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Watanuki Y.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Huesler M.A.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Huesler M.A.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Rune H. d. Dimitrov G.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Rune H.",
+                "loserName": "Dimitrov G.",
+                "score": "3-6 7-6 7-6 6-3"
+              },
+              "children": [
+                {
+                  "name": "Rune H. d. Davidovich Fokina A.",
+                  "attributes": {
+                    "round": "3R",
+                    "winnerName": "Rune H.",
+                    "loserName": "Davidovich Fokina A.",
+                    "score": "6-3 4-6 3-6 6-4 7-6"
+                  },
+                  "children": [
+                    {
+                      "name": "Rune H. d. Carballes Baena R.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Rune H.",
+                        "loserName": "Carballes Baena R.",
+                        "score": "6-3 7-6 6-4"
+                      },
+                      "children": [
+                        {
+                          "name": "Rune H. d. Loffhagen G.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Rune H.",
+                            "loserName": "Loffhagen G.",
+                            "score": "7-6 6-3 6-2"
+                          },
+                          "children": [
+                            {
+                              "name": "Rune H.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Rune H.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Loffhagen G.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Loffhagen G.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Carballes Baena R. d. Arnaldi M.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Carballes Baena R.",
+                            "loserName": "Arnaldi M.",
+                            "score": "6-7 6-3 6-4 6-4"
+                          },
+                          "children": [
+                            {
+                              "name": "Carballes Baena R.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Carballes Baena R.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Arnaldi M.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Arnaldi M.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Davidovich Fokina A. d. Van De Zandschulp B.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Davidovich Fokina A.",
+                        "loserName": "Van De Zandschulp B.",
+                        "score": "6-1 2-6 6-4 6-3"
+                      },
+                      "children": [
+                        {
+                          "name": "Davidovich Fokina A. d. Fils A.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Davidovich Fokina A.",
+                            "loserName": "Fils A.",
+                            "score": "7-6 6-1 6-2"
+                          },
+                          "children": [
+                            {
+                              "name": "Davidovich Fokina A.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Davidovich Fokina A.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Fils A.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Fils A.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Van De Zandschulp B. d. Zhang Zh.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Van De Zandschulp B.",
+                            "loserName": "Zhang Zh.",
+                            "score": "2-6 7-6 7-6 3-6 6-2"
+                          },
+                          "children": [
+                            {
+                              "name": "Van De Zandschulp B.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Van De Zandschulp B.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Zhang Zh.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Zhang Zh.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Dimitrov G. d. Tiafoe F.",
+                  "attributes": {
+                    "round": "3R",
+                    "winnerName": "Dimitrov G.",
+                    "loserName": "Tiafoe F.",
+                    "score": "6-2 6-3 6-2"
+                  },
+                  "children": [
+                    {
+                      "name": "Dimitrov G. d. Ivashka I.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Dimitrov G.",
+                        "loserName": "Ivashka I.",
+                        "score": "6-3 6-4 6-4"
+                      },
+                      "children": [
+                        {
+                          "name": "Dimitrov G. d. Shimabukuro S.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Dimitrov G.",
+                            "loserName": "Shimabukuro S.",
+                            "score": "6-1 6-2 6-1"
+                          },
+                          "children": [
+                            {
+                              "name": "Dimitrov G.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Dimitrov G.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Shimabukuro S.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Shimabukuro S.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Ivashka I. d. Coria F.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Ivashka I.",
+                            "loserName": "Coria F.",
+                            "score": "4-6 6-4 6-3 6-0"
+                          },
+                          "children": [
+                            {
+                              "name": "Ivashka I.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Ivashka I.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Coria F.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Coria F.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Tiafoe F. d. Stricker D.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Tiafoe F.",
+                        "loserName": "Stricker D.",
+                        "score": "7-6 6-4 6-2"
+                      },
+                      "children": [
+                        {
+                          "name": "Tiafoe F. d. Wu Y.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Tiafoe F.",
+                            "loserName": "Wu Y.",
+                            "score": "7-6 6-3 6-4"
+                          },
+                          "children": [
+                            {
+                              "name": "Tiafoe F.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Tiafoe F.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Wu Y.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Wu Y.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Stricker D. d. Popyrin A.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Stricker D.",
+                            "loserName": "Popyrin A.",
+                            "score": "3-6 6-3 6-2 4-6 7-5"
+                          },
+                          "children": [
+                            {
+                              "name": "Stricker D.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Stricker D.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Popyrin A.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Popyrin A.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Medvedev D. d. Eubanks C.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Medvedev D.",
+            "loserName": "Eubanks C.",
+            "score": "6-4 1-6 4-6 7-6 6-1"
+          },
+          "children": [
+            {
+              "name": "Medvedev D. d. Lehecka J.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Medvedev D.",
+                "loserName": "Lehecka J.",
+                "score": "6-4 6-2 (RET)"
+              },
+              "children": [
+                {
+                  "name": "Medvedev D. d. Fucsovics M.",
+                  "attributes": {
+                    "round": "3R",
+                    "winnerName": "Medvedev D.",
+                    "loserName": "Fucsovics M.",
+                    "score": "4-6 6-3 6-4 6-4"
+                  },
+                  "children": [
+                    {
+                      "name": "Medvedev D. d. Mannarino A.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Medvedev D.",
+                        "loserName": "Mannarino A.",
+                        "score": "6-3 6-3 7-6"
+                      },
+                      "children": [
+                        {
+                          "name": "Medvedev D. d. Fery A.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Medvedev D.",
+                            "loserName": "Fery A.",
+                            "score": "7-5 6-4 6-3"
+                          },
+                          "children": [
+                            {
+                              "name": "Medvedev D.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Medvedev D.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Fery A.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Fery A.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Mannarino A. d. Shevchenko A.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Mannarino A.",
+                            "loserName": "Shevchenko A.",
+                            "score": "6-3 6-3 6-2"
+                          },
+                          "children": [
+                            {
+                              "name": "Mannarino A.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Mannarino A.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Shevchenko A.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Shevchenko A.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Fucsovics M. d. Giron M.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Fucsovics M.",
+                        "loserName": "Giron M.",
+                        "score": "7-6 6-3 4-6 6-4"
+                      },
+                      "children": [
+                        {
+                          "name": "Fucsovics M. d. Griekspoor T.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Fucsovics M.",
+                            "loserName": "Griekspoor T.",
+                            "score": "6-4 6-2 6-4"
+                          },
+                          "children": [
+                            {
+                              "name": "Fucsovics M.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Fucsovics M.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Griekspoor T.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Griekspoor T.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Giron M. d. Dellien H.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Giron M.",
+                            "loserName": "Dellien H.",
+                            "score": "7-6 6-4 6-4"
+                          },
+                          "children": [
+                            {
+                              "name": "Giron M.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Giron M.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Dellien H.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Dellien H.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Lehecka J. d. Paul T.",
+                  "attributes": {
+                    "round": "3R",
+                    "winnerName": "Lehecka J.",
+                    "loserName": "Paul T.",
+                    "score": "6-2 7-6 6-7 6-7 6-2"
+                  },
+                  "children": [
+                    {
+                      "name": "Lehecka J. d. Cerundolo F.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Lehecka J.",
+                        "loserName": "Cerundolo F.",
+                        "score": "6-2 6-2 6-2"
+                      },
+                      "children": [
+                        {
+                          "name": "Lehecka J. d. Ofner S.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Lehecka J.",
+                            "loserName": "Ofner S.",
+                            "score": "6-4 6-4 6-4"
+                          },
+                          "children": [
+                            {
+                              "name": "Lehecka J.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Lehecka J.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Ofner S.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Ofner S.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Cerundolo F. d. Borges N.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Cerundolo F.",
+                            "loserName": "Borges N.",
+                            "score": "5-7 6-3 6-3 6-4"
+                          },
+                          "children": [
+                            {
+                              "name": "Cerundolo F.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Cerundolo F.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Borges N.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Borges N.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Paul T. d. Raonic M.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Paul T.",
+                        "loserName": "Raonic M.",
+                        "score": "6-4 7-6 6-7 6-4"
+                      },
+                      "children": [
+                        {
+                          "name": "Paul T. d. Mochizuki S.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Paul T.",
+                            "loserName": "Mochizuki S.",
+                            "score": "7-5 6-3 6-1"
+                          },
+                          "children": [
+                            {
+                              "name": "Paul T.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Paul T.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Mochizuki S.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Mochizuki S.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Raonic M. d. Novak D.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Raonic M.",
+                            "loserName": "Novak D.",
+                            "score": "6-7 6-4 7-6 6-1"
+                          },
+                          "children": [
+                            {
+                              "name": "Raonic M.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Raonic M.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Novak D.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Novak D.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Eubanks C. d. Tsitsipas S.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Eubanks C.",
+                "loserName": "Tsitsipas S.",
+                "score": "3-6 7-6 3-6 6-4 6-4"
+              },
+              "children": [
+                {
+                  "name": "Eubanks C. d. O Connell C.",
+                  "attributes": {
+                    "round": "3R",
+                    "winnerName": "Eubanks C.",
+                    "loserName": "O Connell C.",
+                    "score": "7-6 7-6 7-6"
+                  },
+                  "children": [
+                    {
+                      "name": "Eubanks C. d. Norrie C.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Eubanks C.",
+                        "loserName": "Norrie C.",
+                        "score": "6-3 3-6 6-2 7-6"
+                      },
+                      "children": [
+                        {
+                          "name": "Eubanks C. d. Monteiro T.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Eubanks C.",
+                            "loserName": "Monteiro T.",
+                            "score": "4-6 7-5 7-5 6-3"
+                          },
+                          "children": [
+                            {
+                              "name": "Eubanks C.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Eubanks C.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Monteiro T.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Monteiro T.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Norrie C. d. Machac T.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Norrie C.",
+                            "loserName": "Machac T.",
+                            "score": "6-3 4-6 6-1 6-4"
+                          },
+                          "children": [
+                            {
+                              "name": "Norrie C.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Norrie C.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Machac T.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Machac T.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "O Connell C. d. Vesely J.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "O Connell C.",
+                        "loserName": "Vesely J.",
+                        "score": "6-3 7-5 6-4"
+                      },
+                      "children": [
+                        {
+                          "name": "O Connell C. d. Medjedovic H.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "O Connell C.",
+                            "loserName": "Medjedovic H.",
+                            "score": "7-5 6-4 4-6 6-4"
+                          },
+                          "children": [
+                            {
+                              "name": "O Connell C.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "O Connell C.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Medjedovic H.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Medjedovic H.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Vesely J. d. Korda S.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Vesely J.",
+                            "loserName": "Korda S.",
+                            "score": "7-6 4-6 6-2 6-3"
+                          },
+                          "children": [
+                            {
+                              "name": "Vesely J.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Vesely J.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Korda S.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Korda S.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Tsitsipas S. d. Djere L.",
+                  "attributes": {
+                    "round": "3R",
+                    "winnerName": "Tsitsipas S.",
+                    "loserName": "Djere L.",
+                    "score": "6-4 7-6 6-4"
+                  },
+                  "children": [
+                    {
+                      "name": "Tsitsipas S. d. Murray A.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Tsitsipas S.",
+                        "loserName": "Murray A.",
+                        "score": "7-6 6-7 4-6 7-6 6-4"
+                      },
+                      "children": [
+                        {
+                          "name": "Tsitsipas S. d. Thiem D.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Tsitsipas S.",
+                            "loserName": "Thiem D.",
+                            "score": "3-6 7-6 6-2 6-7 7-6"
+                          },
+                          "children": [
+                            {
+                              "name": "Tsitsipas S.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Tsitsipas S.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Thiem D.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Thiem D.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Murray A. d. Peniston R.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Murray A.",
+                            "loserName": "Peniston R.",
+                            "score": "6-3 6-0 6-1"
+                          },
+                          "children": [
+                            {
+                              "name": "Murray A.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Murray A.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Peniston R.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Peniston R.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Djere L. d. Shelton B.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Djere L.",
+                        "loserName": "Shelton B.",
+                        "score": "3-6 6-3 7-6 6-3"
+                      },
+                      "children": [
+                        {
+                          "name": "Djere L. d. Cressy M.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Djere L.",
+                            "loserName": "Cressy M.",
+                            "score": "6-7 7-6 7-6 7-6"
+                          },
+                          "children": [
+                            {
+                              "name": "Djere L.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Djere L.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Cressy M.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Cressy M.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Shelton B. d. Daniel T.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Shelton B.",
+                            "loserName": "Daniel T.",
+                            "score": "6-4 6-3 3-6 4-6 6-3"
+                          },
+                          "children": [
+                            {
+                              "name": "Shelton B.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Shelton B.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Daniel T.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Daniel T.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Djokovic N. d. Sinner J.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Djokovic N.",
+        "loserName": "Sinner J.",
+        "score": "6-3 6-4 7-6"
+      },
+      "children": [
+        {
+          "name": "Djokovic N. d. Rublev A.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Djokovic N.",
+            "loserName": "Rublev A.",
+            "score": "4-6 6-1 6-4 6-3"
+          },
+          "children": [
+            {
+              "name": "Djokovic N. d. Hurkacz H.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Djokovic N.",
+                "loserName": "Hurkacz H.",
+                "score": "7-6 7-6 5-7 6-4"
+              },
+              "children": [
+                {
+                  "name": "Djokovic N. d. Wawrinka S.",
+                  "attributes": {
+                    "round": "3R",
+                    "winnerName": "Djokovic N.",
+                    "loserName": "Wawrinka S.",
+                    "score": "6-3 6-1 7-6"
+                  },
+                  "children": [
+                    {
+                      "name": "Djokovic N. d. Thompson J.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Djokovic N.",
+                        "loserName": "Thompson J.",
+                        "score": "6-3 7-6 7-5"
+                      },
+                      "children": [
+                        {
+                          "name": "Djokovic N. d. Cachin P.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Djokovic N.",
+                            "loserName": "Cachin P.",
+                            "score": "6-3 6-3 7-6"
+                          },
+                          "children": [
+                            {
+                              "name": "Djokovic N.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Djokovic N.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Cachin P.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Cachin P.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Thompson J. d. Nakashima B.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Thompson J.",
+                            "loserName": "Nakashima B.",
+                            "score": "2-6 2-6 6-4 7-6 6-3"
+                          },
+                          "children": [
+                            {
+                              "name": "Thompson J.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Thompson J.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Nakashima B.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Nakashima B.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Wawrinka S. d. Etcheverry T.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Wawrinka S.",
+                        "loserName": "Etcheverry T.",
+                        "score": "6-3 4-6 6-4 6-2"
+                      },
+                      "children": [
+                        {
+                          "name": "Wawrinka S. d. Ruusuvuori E.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Wawrinka S.",
+                            "loserName": "Ruusuvuori E.",
+                            "score": "7-5 7-5 6-4"
+                          },
+                          "children": [
+                            {
+                              "name": "Wawrinka S.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Wawrinka S.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Ruusuvuori E.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Ruusuvuori E.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Etcheverry T. d. Zapata Miralles B.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Etcheverry T.",
+                            "loserName": "Zapata Miralles B.",
+                            "score": "6-7 5-7 6-3 6-4 7-5"
+                          },
+                          "children": [
+                            {
+                              "name": "Etcheverry T.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Etcheverry T.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Zapata Miralles B.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Zapata Miralles B.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Hurkacz H. d. Musetti L.",
+                  "attributes": {
+                    "round": "3R",
+                    "winnerName": "Hurkacz H.",
+                    "loserName": "Musetti L.",
+                    "score": "7-6 6-4 6-4"
+                  },
+                  "children": [
+                    {
+                      "name": "Hurkacz H. d. Choinski J.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Hurkacz H.",
+                        "loserName": "Choinski J.",
+                        "score": "6-4 6-4 7-6"
+                      },
+                      "children": [
+                        {
+                          "name": "Hurkacz H. d. Ramos-Vinolas A.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Hurkacz H.",
+                            "loserName": "Ramos-Vinolas A.",
+                            "score": "6-1 6-4 6-4"
+                          },
+                          "children": [
+                            {
+                              "name": "Hurkacz H.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Hurkacz H.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Ramos-Vinolas A.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Ramos-Vinolas A.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Choinski J. d. Lajovic D.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Choinski J.",
+                            "loserName": "Lajovic D.",
+                            "score": "5-7 7-6 6-2 6-2"
+                          },
+                          "children": [
+                            {
+                              "name": "Choinski J.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Choinski J.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Lajovic D.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Lajovic D.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Musetti L. d. Munar J.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Musetti L.",
+                        "loserName": "Munar J.",
+                        "score": "6-4 6-3 6-1"
+                      },
+                      "children": [
+                        {
+                          "name": "Musetti L. d. Varillas J.P.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Musetti L.",
+                            "loserName": "Varillas J.P.",
+                            "score": "6-3 6-1 7-5"
+                          },
+                          "children": [
+                            {
+                              "name": "Musetti L.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Musetti L.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Varillas J.P.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Varillas J.P.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Munar J. d. Isner J.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Munar J.",
+                            "loserName": "Isner J.",
+                            "score": "4-6 6-3 6-4 6-4"
+                          },
+                          "children": [
+                            {
+                              "name": "Munar J.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Munar J.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Isner J.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Isner J.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Rublev A. d. Bublik A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Rublev A.",
+                "loserName": "Bublik A.",
+                "score": "7-5 6-3 6-7 6-7 6-4"
+              },
+              "children": [
+                {
+                  "name": "Rublev A. d. Goffin D.",
+                  "attributes": {
+                    "round": "3R",
+                    "winnerName": "Rublev A.",
+                    "loserName": "Goffin D.",
+                    "score": "6-3 6-7 7-6 6-2"
+                  },
+                  "children": [
+                    {
+                      "name": "Rublev A. d. Karatsev A.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Rublev A.",
+                        "loserName": "Karatsev A.",
+                        "score": "6-7 6-3 6-4 7-5"
+                      },
+                      "children": [
+                        {
+                          "name": "Rublev A. d. Purcell M.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Rublev A.",
+                            "loserName": "Purcell M.",
+                            "score": "6-3 7-5 6-4"
+                          },
+                          "children": [
+                            {
+                              "name": "Rublev A.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Rublev A.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Purcell M.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Purcell M.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Karatsev A. d. Van Assche L.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Karatsev A.",
+                            "loserName": "Van Assche L.",
+                            "score": "6-7 6-4 6-2 6-4"
+                          },
+                          "children": [
+                            {
+                              "name": "Karatsev A.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Karatsev A.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Van Assche L.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Van Assche L.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Goffin D. d. Barrios M.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Goffin D.",
+                        "loserName": "Barrios M.",
+                        "score": "7-6 5-7 6-2 6-0"
+                      },
+                      "children": [
+                        {
+                          "name": "Goffin D. d. Marozsan F.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Goffin D.",
+                            "loserName": "Marozsan F.",
+                            "score": "6-2 5-7 6-2 6-0"
+                          },
+                          "children": [
+                            {
+                              "name": "Goffin D.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Goffin D.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Marozsan F.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Marozsan F.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Barrios M. d. Baez S.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Barrios M.",
+                            "loserName": "Baez S.",
+                            "score": "7-6 3-6 6-3 7-6"
+                          },
+                          "children": [
+                            {
+                              "name": "Barrios M.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Barrios M.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Baez S.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Baez S.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Bublik A. d. Marterer M.",
+                  "attributes": {
+                    "round": "3R",
+                    "winnerName": "Bublik A.",
+                    "loserName": "Marterer M.",
+                    "score": "6-4 6-1 7-6"
+                  },
+                  "children": [
+                    {
+                      "name": "Bublik A. d. Wolf J.J.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Bublik A.",
+                        "loserName": "Wolf J.J.",
+                        "score": "6-3 7-6 6-0"
+                      },
+                      "children": [
+                        {
+                          "name": "Bublik A. d. Mcdonald M.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Bublik A.",
+                            "loserName": "Mcdonald M.",
+                            "score": "6-7 6-4 6-4 6-4"
+                          },
+                          "children": [
+                            {
+                              "name": "Bublik A.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Bublik A.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Mcdonald M.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Mcdonald M.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Wolf J.J. d. Couacaud E.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Wolf J.J.",
+                            "loserName": "Couacaud E.",
+                            "score": "7-5 6-3 7-6"
+                          },
+                          "children": [
+                            {
+                              "name": "Wolf J.J.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Wolf J.J.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Couacaud E.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Couacaud E.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Marterer M. d. Mmoh M.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Marterer M.",
+                        "loserName": "Mmoh M.",
+                        "score": "7-5 7-6 6-4"
+                      },
+                      "children": [
+                        {
+                          "name": "Marterer M. d. Gojo B.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Marterer M.",
+                            "loserName": "Gojo B.",
+                            "score": "7-5 6-7 6-3 6-4"
+                          },
+                          "children": [
+                            {
+                              "name": "Marterer M.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Marterer M.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Gojo B.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Gojo B.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Mmoh M. d. Auger-Aliassime F.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Mmoh M.",
+                            "loserName": "Auger-Aliassime F.",
+                            "score": "7-6 6-7 7-6 6-4"
+                          },
+                          "children": [
+                            {
+                              "name": "Mmoh M.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Mmoh M.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Auger-Aliassime F.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Auger-Aliassime F.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sinner J. d. Safiullin R.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Sinner J.",
+            "loserName": "Safiullin R.",
+            "score": "6-4 3-6 6-2 6-2"
+          },
+          "children": [
+            {
+              "name": "Sinner J. d. Galan D.E.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Sinner J.",
+                "loserName": "Galan D.E.",
+                "score": "7-6 6-4 6-3"
+              },
+              "children": [
+                {
+                  "name": "Sinner J. d. Halys Q.",
+                  "attributes": {
+                    "round": "3R",
+                    "winnerName": "Sinner J.",
+                    "loserName": "Halys Q.",
+                    "score": "3-6 6-2 6-3 6-4"
+                  },
+                  "children": [
+                    {
+                      "name": "Sinner J. d. Schwartzman D.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Sinner J.",
+                        "loserName": "Schwartzman D.",
+                        "score": "7-5 6-1 6-2"
+                      },
+                      "children": [
+                        {
+                          "name": "Sinner J. d. Cerundolo J.M.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Sinner J.",
+                            "loserName": "Cerundolo J.M.",
+                            "score": "6-2 6-2 6-2"
+                          },
+                          "children": [
+                            {
+                              "name": "Sinner J.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Sinner J.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Cerundolo J.M.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Cerundolo J.M.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Schwartzman D. d. Kecmanovic M.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Schwartzman D.",
+                            "loserName": "Kecmanovic M.",
+                            "score": "6-0 6-3 6-4"
+                          },
+                          "children": [
+                            {
+                              "name": "Schwartzman D.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Schwartzman D.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Kecmanovic M.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Kecmanovic M.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Halys Q. d. Vukic A.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Halys Q.",
+                        "loserName": "Vukic A.",
+                        "score": "6-3 6-1 6-4"
+                      },
+                      "children": [
+                        {
+                          "name": "Halys Q. d. Evans D.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Halys Q.",
+                            "loserName": "Evans D.",
+                            "score": "6-2 6-3 6-7 6-4"
+                          },
+                          "children": [
+                            {
+                              "name": "Halys Q.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Halys Q.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Evans D.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Evans D.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Vukic A. d. Altmaier D.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Vukic A.",
+                            "loserName": "Altmaier D.",
+                            "score": "6-3 7-6 3-6 7-5"
+                          },
+                          "children": [
+                            {
+                              "name": "Vukic A.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Vukic A.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Altmaier D.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Altmaier D.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Galan D.E. d. Ymer M.",
+                  "attributes": {
+                    "round": "3R",
+                    "winnerName": "Galan D.E.",
+                    "loserName": "Ymer M.",
+                    "score": "6-2 6-7 7-6 3-6 6-1"
+                  },
+                  "children": [
+                    {
+                      "name": "Galan D.E. d. Otte O.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Galan D.E.",
+                        "loserName": "Otte O.",
+                        "score": "6-3 3-6 6-3 7-6"
+                      },
+                      "children": [
+                        {
+                          "name": "Galan D.E. d. Nishioka Y.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Galan D.E.",
+                            "loserName": "Nishioka Y.",
+                            "score": "6-4 6-3 6-3"
+                          },
+                          "children": [
+                            {
+                              "name": "Galan D.E.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Galan D.E.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Nishioka Y.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Nishioka Y.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Otte O. d. Koepfer D.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Otte O.",
+                            "loserName": "Koepfer D.",
+                            "score": "7-5 6-3 7-6"
+                          },
+                          "children": [
+                            {
+                              "name": "Otte O.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Otte O.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Koepfer D.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Koepfer D.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Ymer M. d. Fritz T.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Ymer M.",
+                        "loserName": "Fritz T.",
+                        "score": "3-6 2-6 6-3 6-4 6-2"
+                      },
+                      "children": [
+                        {
+                          "name": "Ymer M. d. Molcan A.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Ymer M.",
+                            "loserName": "Molcan A.",
+                            "score": "6-3 6-3 6-4"
+                          },
+                          "children": [
+                            {
+                              "name": "Ymer M.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Ymer M.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Molcan A.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Molcan A.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Fritz T. d. Hanfmann Y.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Fritz T.",
+                            "loserName": "Hanfmann Y.",
+                            "score": "6-4 2-6 4-6 7-5 6-3"
+                          },
+                          "children": [
+                            {
+                              "name": "Fritz T.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Fritz T.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Hanfmann Y.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Hanfmann Y.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Safiullin R. d. Shapovalov D.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Safiullin R.",
+                "loserName": "Shapovalov D.",
+                "score": "3-6 6-3 6-1 6-3"
+              },
+              "children": [
+                {
+                  "name": "Safiullin R. d. Pella G.",
+                  "attributes": {
+                    "round": "3R",
+                    "winnerName": "Safiullin R.",
+                    "loserName": "Pella G.",
+                    "score": "7-6 6-4 6-0"
+                  },
+                  "children": [
+                    {
+                      "name": "Safiullin R. d. Moutet C.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Safiullin R.",
+                        "loserName": "Moutet C.",
+                        "score": "7-5 6-3 7-6"
+                      },
+                      "children": [
+                        {
+                          "name": "Safiullin R. d. Bautista Agut R.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Safiullin R.",
+                            "loserName": "Bautista Agut R.",
+                            "score": "2-6 7-6 6-7 6-4 7-5"
+                          },
+                          "children": [
+                            {
+                              "name": "Safiullin R.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Safiullin R.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Bautista Agut R.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Bautista Agut R.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Moutet C. d. Gasquet R.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Moutet C.",
+                            "loserName": "Gasquet R.",
+                            "score": "6-3 7-5 7-5"
+                          },
+                          "children": [
+                            {
+                              "name": "Moutet C.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Moutet C.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Gasquet R.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Gasquet R.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Pella G. d. Mayot H.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Pella G.",
+                        "loserName": "Mayot H.",
+                        "score": "2-6 6-3 7-6 7-5"
+                      },
+                      "children": [
+                        {
+                          "name": "Pella G. d. Coric B.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Pella G.",
+                            "loserName": "Coric B.",
+                            "score": "6-3 7-5 4-6 3-6 6-1"
+                          },
+                          "children": [
+                            {
+                              "name": "Pella G.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Pella G.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Coric B.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Coric B.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Mayot H. d. Bonzi B.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Mayot H.",
+                            "loserName": "Bonzi B.",
+                            "score": "6-3 6-4 7-5"
+                          },
+                          "children": [
+                            {
+                              "name": "Mayot H.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Mayot H.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Bonzi B.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Bonzi B.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Shapovalov D. d. Broady L.",
+                  "attributes": {
+                    "round": "3R",
+                    "winnerName": "Shapovalov D.",
+                    "loserName": "Broady L.",
+                    "score": "4-6 6-2 7-5 7-5"
+                  },
+                  "children": [
+                    {
+                      "name": "Shapovalov D. d. Barrere G.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Shapovalov D.",
+                        "loserName": "Barrere G.",
+                        "score": "6-3 6-4 7-6"
+                      },
+                      "children": [
+                        {
+                          "name": "Shapovalov D. d. Albot R.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Shapovalov D.",
+                            "loserName": "Albot R.",
+                            "score": "5-7 6-4 6-2 6-2"
+                          },
+                          "children": [
+                            {
+                              "name": "Shapovalov D.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Shapovalov D.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Albot R.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Albot R.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Barrere G. d. Harris L.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Barrere G.",
+                            "loserName": "Harris L.",
+                            "score": "7-5 6-7 7-5 6-3"
+                          },
+                          "children": [
+                            {
+                              "name": "Barrere G.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Barrere G.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Harris L.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Harris L.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Broady L. d. Ruud C.",
+                      "attributes": {
+                        "round": "2R",
+                        "winnerName": "Broady L.",
+                        "loserName": "Ruud C.",
+                        "score": "6-4 3-6 4-6 6-3 6-0"
+                      },
+                      "children": [
+                        {
+                          "name": "Broady L. d. Lestienne C.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Broady L.",
+                            "loserName": "Lestienne C.",
+                            "score": "6-1 6-3 7-5"
+                          },
+                          "children": [
+                            {
+                              "name": "Broady L.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Broady L.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Lestienne C.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Lestienne C.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Ruud C. d. Lokoli L.",
+                          "attributes": {
+                            "round": "1R",
+                            "winnerName": "Ruud C.",
+                            "loserName": "Lokoli L.",
+                            "score": "6-1 5-7 6-4 6-3"
+                          },
+                          "children": [
+                            {
+                              "name": "Ruud C.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Ruud C.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            },
+                            {
+                              "name": "Lokoli L.",
+                              "attributes": {
+                                "round": "Q3",
+                                "winnerName": "Lokoli L.",
+                                "loserName": "BYE",
+                                "score": "BYE"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

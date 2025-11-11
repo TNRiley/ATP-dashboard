@@ -1,0 +1,157 @@
+{
+  "name": "Baez S. d. Tiafoe F.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Baez S.",
+    "loserName": "Tiafoe F.",
+    "score": "6-3 6-2"
+  },
+  "children": [
+    {
+      "name": "Baez S. d. Ramos-Vinolas A.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Baez S.",
+        "loserName": "Ramos-Vinolas A.",
+        "score": "6-3 6-7 6-0"
+      },
+      "children": [
+        {
+          "name": "Baez S. d. Gasquet R.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Baez S.",
+            "loserName": "Gasquet R.",
+            "score": "3-6 6-1 6-4"
+          },
+          "children": [
+            {
+              "name": "Baez S.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Baez S.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Gasquet R.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Gasquet R.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Ramos-Vinolas A. d. Verdasco F.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Ramos-Vinolas A.",
+            "loserName": "Verdasco F.",
+            "score": "6-2 6-2"
+          },
+          "children": [
+            {
+              "name": "Ramos-Vinolas A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Ramos-Vinolas A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Verdasco F.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Verdasco F.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tiafoe F. d. Korda S.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Tiafoe F.",
+        "loserName": "Korda S.",
+        "score": "4-6 7-6 6-4"
+      },
+      "children": [
+        {
+          "name": "Tiafoe F. d. Davidovich Fokina A.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Tiafoe F.",
+            "loserName": "Davidovich Fokina A.",
+            "score": "7-6 5-7 7-5"
+          },
+          "children": [
+            {
+              "name": "Tiafoe F.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Tiafoe F.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Davidovich Fokina A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Davidovich Fokina A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Korda S. d. Auger-Aliassime F.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Korda S.",
+            "loserName": "Auger-Aliassime F.",
+            "score": "6-2 6-2"
+          },
+          "children": [
+            {
+              "name": "Korda S.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Korda S.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Auger-Aliassime F.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Auger-Aliassime F.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

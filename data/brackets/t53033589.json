@@ -1,0 +1,157 @@
+{
+  "name": "Carreno Busta P. d. Munar J.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Carreno Busta P.",
+    "loserName": "Munar J.",
+    "score": "6-1 2-6 6-4"
+  },
+  "children": [
+    {
+      "name": "Carreno Busta P. d. Ramos-Vinolas A.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Carreno Busta P.",
+        "loserName": "Ramos-Vinolas A.",
+        "score": "6-1 3-6 7-6"
+      },
+      "children": [
+        {
+          "name": "Carreno Busta P. d. Kwon S.W.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Carreno Busta P.",
+            "loserName": "Kwon S.W.",
+            "score": "6-4 6-0"
+          },
+          "children": [
+            {
+              "name": "Carreno Busta P.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Carreno Busta P.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Kwon S.W.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Kwon S.W.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Ramos-Vinolas A. d. Gombos N.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Ramos-Vinolas A.",
+            "loserName": "Gombos N.",
+            "score": "6-7 7-5 6-4"
+          },
+          "children": [
+            {
+              "name": "Ramos-Vinolas A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Ramos-Vinolas A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Gombos N.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Gombos N.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Munar J. d. Alcaraz C.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Munar J.",
+        "loserName": "Alcaraz C.",
+        "score": "7-6 6-4"
+      },
+      "children": [
+        {
+          "name": "Munar J. d. Ivashka I.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Munar J.",
+            "loserName": "Ivashka I.",
+            "score": "6-7 6-4 6-4"
+          },
+          "children": [
+            {
+              "name": "Munar J.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Munar J.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Ivashka I.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Ivashka I.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Alcaraz C. d. Ruud C.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Alcaraz C.",
+            "loserName": "Ruud C.",
+            "score": "6-2 6-4"
+          },
+          "children": [
+            {
+              "name": "Alcaraz C.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Alcaraz C.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Ruud C.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Ruud C.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

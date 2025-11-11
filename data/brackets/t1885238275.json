@@ -1,0 +1,157 @@
+{
+  "name": "Berrettini M. d. Krajinovic F.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Berrettini M.",
+    "loserName": "Krajinovic F.",
+    "score": "7-5 6-4"
+  },
+  "children": [
+    {
+      "name": "Berrettini M. d. Van De Zandschulp B.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Berrettini M.",
+        "loserName": "Van De Zandschulp B.",
+        "score": "6-4 6-3"
+      },
+      "children": [
+        {
+          "name": "Berrettini M. d. Paul T.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Berrettini M.",
+            "loserName": "Paul T.",
+            "score": "6-4 6-2"
+          },
+          "children": [
+            {
+              "name": "Berrettini M.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Berrettini M.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Paul T.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Paul T.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Van De Zandschulp B. d. Davidovich Fokina A.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Van De Zandschulp B.",
+            "loserName": "Davidovich Fokina A.",
+            "score": "6-2 6-4"
+          },
+          "children": [
+            {
+              "name": "Van De Zandschulp B.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Van De Zandschulp B.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Davidovich Fokina A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Davidovich Fokina A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Krajinovic F. d. Cilic M.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Krajinovic F.",
+        "loserName": "Cilic M.",
+        "score": "6-3 6-3"
+      },
+      "children": [
+        {
+          "name": "Krajinovic F. d. Peniston R.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Krajinovic F.",
+            "loserName": "Peniston R.",
+            "score": "4-6 6-3 6-3"
+          },
+          "children": [
+            {
+              "name": "Krajinovic F.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Krajinovic F.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Peniston R.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Peniston R.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Cilic M. d. Ruusuvuori E.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Cilic M.",
+            "loserName": "Ruusuvuori E.",
+            "score": "7-6 6-4"
+          },
+          "children": [
+            {
+              "name": "Cilic M.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Cilic M.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Ruusuvuori E.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Ruusuvuori E.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

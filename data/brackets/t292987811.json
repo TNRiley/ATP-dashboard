@@ -1,0 +1,157 @@
+{
+  "name": "De Minaur A. d. Sonego L.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "De Minaur A.",
+    "loserName": "Sonego L.",
+    "score": "4-6 6-4 7-6"
+  },
+  "children": [
+    {
+      "name": "De Minaur A. d. Kwon S.W.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "De Minaur A.",
+        "loserName": "Kwon S.W.",
+        "score": "6-3 7-6"
+      },
+      "children": [
+        {
+          "name": "De Minaur A. d. Pospisil V.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "De Minaur A.",
+            "loserName": "Pospisil V.",
+            "score": "6-4 6-4"
+          },
+          "children": [
+            {
+              "name": "De Minaur A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "De Minaur A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Pospisil V.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Pospisil V.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Kwon S.W. d. Ivashka I.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Kwon S.W.",
+            "loserName": "Ivashka I.",
+            "score": "6-4 7-5"
+          },
+          "children": [
+            {
+              "name": "Kwon S.W.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Kwon S.W.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Ivashka I.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Ivashka I.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sonego L. d. Purcell M.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Sonego L.",
+        "loserName": "Purcell M.",
+        "score": "6-1 3-6 6-1"
+      },
+      "children": [
+        {
+          "name": "Sonego L. d. Bublik A.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Sonego L.",
+            "loserName": "Bublik A.",
+            "score": "6-1 7-5"
+          },
+          "children": [
+            {
+              "name": "Sonego L.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Sonego L.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Bublik A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Bublik A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Purcell M. d. Seppi A.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Purcell M.",
+            "loserName": "Seppi A.",
+            "score": "6-4 1-6 6-4"
+          },
+          "children": [
+            {
+              "name": "Purcell M.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Purcell M.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Seppi A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Seppi A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

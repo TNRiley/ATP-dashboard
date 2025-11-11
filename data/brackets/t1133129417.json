@@ -1,0 +1,157 @@
+{
+  "name": "Bublik A. d. Medvedev D.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Bublik A.",
+    "loserName": "Medvedev D.",
+    "score": "6-3 7-6"
+  },
+  "children": [
+    {
+      "name": "Bublik A. d. Khachanov K.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Bublik A.",
+        "loserName": "Khachanov K.",
+        "score": "4-6 7-6 6-4"
+      },
+      "children": [
+        {
+          "name": "Bublik A. d. Machac T.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Bublik A.",
+            "loserName": "Machac T.",
+            "score": "7-6 6-3"
+          },
+          "children": [
+            {
+              "name": "Bublik A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Bublik A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Machac T.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Machac T.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Khachanov K. d. Etcheverry T.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Khachanov K.",
+            "loserName": "Etcheverry T.",
+            "score": "6-3 6-2"
+          },
+          "children": [
+            {
+              "name": "Khachanov K.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Khachanov K.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Etcheverry T.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Etcheverry T.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Medvedev D. d. Zverev A.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Medvedev D.",
+        "loserName": "Zverev A.",
+        "score": "7-6 6-7 6-4"
+      },
+      "children": [
+        {
+          "name": "Medvedev D. d. Michelsen A.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Medvedev D.",
+            "loserName": "Michelsen A.",
+            "score": "6-4 6-3"
+          },
+          "children": [
+            {
+              "name": "Medvedev D.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Medvedev D.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Michelsen A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Michelsen A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Zverev A. d. Cobolli F.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Zverev A.",
+            "loserName": "Cobolli F.",
+            "score": "6-4 7-6"
+          },
+          "children": [
+            {
+              "name": "Zverev A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Zverev A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Cobolli F.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Cobolli F.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

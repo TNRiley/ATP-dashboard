@@ -1,0 +1,157 @@
+{
+  "name": "Bublik A. d. Cazaux A.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Bublik A.",
+    "loserName": "Cazaux A.",
+    "score": "6-4 6-3"
+  },
+  "children": [
+    {
+      "name": "Bublik A. d. Van De Zandschulp B.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Bublik A.",
+        "loserName": "Van De Zandschulp B.",
+        "score": "6-3 6-4"
+      },
+      "children": [
+        {
+          "name": "Bublik A. d. Shevchenko A.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Bublik A.",
+            "loserName": "Shevchenko A.",
+            "score": "6-4 6-2"
+          },
+          "children": [
+            {
+              "name": "Bublik A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Bublik A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Shevchenko A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Shevchenko A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Van De Zandschulp B. d. Seyboth Wild T.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Van De Zandschulp B.",
+            "loserName": "Seyboth Wild T.",
+            "score": "7-6 6-2"
+          },
+          "children": [
+            {
+              "name": "Van De Zandschulp B.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Van De Zandschulp B.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Seyboth Wild T.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Seyboth Wild T.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cazaux A. d. Rinderknech A.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Cazaux A.",
+        "loserName": "Rinderknech A.",
+        "score": "7-5 6-3"
+      },
+      "children": [
+        {
+          "name": "Cazaux A. d. Struff J.L.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Cazaux A.",
+            "loserName": "Struff J.L.",
+            "score": "6-3 6-4"
+          },
+          "children": [
+            {
+              "name": "Cazaux A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Cazaux A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Struff J.L.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Struff J.L.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Rinderknech A. d. Hanfmann Y.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Rinderknech A.",
+            "loserName": "Hanfmann Y.",
+            "score": "6-4 3-6 6-1"
+          },
+          "children": [
+            {
+              "name": "Rinderknech A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Rinderknech A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Hanfmann Y.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Hanfmann Y.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

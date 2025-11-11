@@ -1,0 +1,157 @@
+{
+  "name": "Jarry N. d. Etcheverry T.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Jarry N.",
+    "loserName": "Etcheverry T.",
+    "score": "6-7 7-6 6-2"
+  },
+  "children": [
+    {
+      "name": "Jarry N. d. Munar J.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Jarry N.",
+        "loserName": "Munar J.",
+        "score": "1-6 7-6 6-1"
+      },
+      "children": [
+        {
+          "name": "Jarry N. d. Hanfmann Y.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Jarry N.",
+            "loserName": "Hanfmann Y.",
+            "score": "3-6 6-3 6-4"
+          },
+          "children": [
+            {
+              "name": "Jarry N.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Jarry N.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Hanfmann Y.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Hanfmann Y.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Munar J. d. Monteiro T.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Munar J.",
+            "loserName": "Monteiro T.",
+            "score": "6-3 3-6 6-2"
+          },
+          "children": [
+            {
+              "name": "Munar J.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Munar J.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Monteiro T.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Monteiro T.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Etcheverry T. d. Baez S.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Etcheverry T.",
+        "loserName": "Baez S.",
+        "score": "7-5 6-3"
+      },
+      "children": [
+        {
+          "name": "Etcheverry T. d. Lajovic D.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Etcheverry T.",
+            "loserName": "Lajovic D.",
+            "score": "6-1 6-2"
+          },
+          "children": [
+            {
+              "name": "Etcheverry T.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Etcheverry T.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Lajovic D.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Lajovic D.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Baez S. d. Djere L.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Baez S.",
+            "loserName": "Djere L.",
+            "score": "7-6 6-4"
+          },
+          "children": [
+            {
+              "name": "Baez S.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Baez S.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Djere L.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Djere L.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

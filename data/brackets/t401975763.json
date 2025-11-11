@@ -1,0 +1,157 @@
+{
+  "name": "Lehecka J. d. Opelka R.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Lehecka J.",
+    "loserName": "Opelka R.",
+    "score": "4-1 (RET)"
+  },
+  "children": [
+    {
+      "name": "Lehecka J. d. Dimitrov G.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Lehecka J.",
+        "loserName": "Dimitrov G.",
+        "score": "6-4 4-4 (RET)"
+      },
+      "children": [
+        {
+          "name": "Lehecka J. d. Jarry N.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Lehecka J.",
+            "loserName": "Jarry N.",
+            "score": "6-4 6-4"
+          },
+          "children": [
+            {
+              "name": "Lehecka J.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Lehecka J.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Jarry N.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Jarry N.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Dimitrov G. d. Thompson J.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Dimitrov G.",
+            "loserName": "Thompson J.",
+            "score": "6-1 2-1 (RET)"
+          },
+          "children": [
+            {
+              "name": "Dimitrov G.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Dimitrov G.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Thompson J.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Thompson J.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Opelka R. d. Mpetshi G.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Opelka R.",
+        "loserName": "Mpetshi G.",
+        "score": "6-3 7-6"
+      },
+      "children": [
+        {
+          "name": "Opelka R. d. Djokovic N.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Opelka R.",
+            "loserName": "Djokovic N.",
+            "score": "7-6 6-3"
+          },
+          "children": [
+            {
+              "name": "Opelka R.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Opelka R.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Djokovic N.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Djokovic N.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Mpetshi G. d. Mensik J.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Mpetshi G.",
+            "loserName": "Mensik J.",
+            "score": "7-5 7-6"
+          },
+          "children": [
+            {
+              "name": "Mpetshi G.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Mpetshi G.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Mensik J.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Mensik J.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "name": "Opelka R. d. Isner J.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Opelka R.",
+    "loserName": "Isner J.",
+    "score": "6-3 7-6"
+  },
+  "children": [
+    {
+      "name": "Opelka R. d. Kyrgios N.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Opelka R.",
+        "loserName": "Kyrgios N.",
+        "score": "6-3 7-5"
+      },
+      "children": [
+        {
+          "name": "Opelka R. d. Brouwer G.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Opelka R.",
+            "loserName": "Brouwer G.",
+            "score": "6-3 7-5"
+          },
+          "children": [
+            {
+              "name": "Opelka R.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Opelka R.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Brouwer G.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Brouwer G.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Kyrgios N. d. Mmoh M.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Kyrgios N.",
+            "loserName": "Mmoh M.",
+            "score": ""
+          },
+          "children": [
+            {
+              "name": "Kyrgios N.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Kyrgios N.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Mmoh M.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Mmoh M.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Isner J. d. Garin C.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Isner J.",
+        "loserName": "Garin C.",
+        "score": "4-6 6-3 6-4"
+      },
+      "children": [
+        {
+          "name": "Isner J. d. Tiafoe F.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Isner J.",
+            "loserName": "Tiafoe F.",
+            "score": "6-4 2-6 6-3"
+          },
+          "children": [
+            {
+              "name": "Isner J.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Isner J.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Tiafoe F.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Tiafoe F.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Garin C. d. Fritz T.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Garin C.",
+            "loserName": "Fritz T.",
+            "score": "6-2 6-7 6-3"
+          },
+          "children": [
+            {
+              "name": "Garin C.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Garin C.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Fritz T.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Fritz T.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

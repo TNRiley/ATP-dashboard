@@ -1,0 +1,157 @@
+{
+  "name": "Fils A. d. Humbert U.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Fils A.",
+    "loserName": "Humbert U.",
+    "score": "5-7 7-6 6-3"
+  },
+  "children": [
+    {
+      "name": "Fils A. d. Rune H.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Fils A.",
+        "loserName": "Rune H.",
+        "score": "7-6 7-6"
+      },
+      "children": [
+        {
+          "name": "Fils A. d. Shelton B.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Fils A.",
+            "loserName": "Shelton B.",
+            "score": "7-5 6-7 7-6"
+          },
+          "children": [
+            {
+              "name": "Fils A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Fils A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Shelton B.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Shelton B.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Rune H. d. Nishikori K.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Rune H.",
+            "loserName": "Nishikori K.",
+            "score": "3-6 6-2 7-5"
+          },
+          "children": [
+            {
+              "name": "Rune H.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Rune H.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Nishikori K.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Nishikori K.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Humbert U. d. Machac T.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Humbert U.",
+        "loserName": "Machac T.",
+        "score": "6-3 3-6 6-2"
+      },
+      "children": [
+        {
+          "name": "Humbert U. d. Draper J.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Humbert U.",
+            "loserName": "Draper J.",
+            "score": "7-5 2-1 (RET)"
+          },
+          "children": [
+            {
+              "name": "Humbert U.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Humbert U.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Draper J.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Draper J.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Machac T. d. Michelsen A.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Machac T.",
+            "loserName": "Michelsen A.",
+            "score": "7-6 6-3"
+          },
+          "children": [
+            {
+              "name": "Machac T.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Machac T.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Michelsen A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Michelsen A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
