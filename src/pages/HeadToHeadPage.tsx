@@ -16,9 +16,9 @@ export function HeadToHeadPage() {
   useEffect(() => {
     // Load data from consolidated JSON files (includes all years)
     Promise.all([
-      fetch('/data/players.json').then(r => r.json()),
-      fetch('/data/tournaments.json').then(r => r.json()),
-      fetch('/data/matches.json').then(r => r.json())
+      fetch(`${import.meta.env.BASE_URL}data/players.json`).then(r => r.json()),
+      fetch(`${import.meta.env.BASE_URL}data/tournaments.json`).then(r => r.json()),
+      fetch(`${import.meta.env.BASE_URL}data/matches.json`).then(r => r.json())
     ])
       .then(([playersData, tournamentsData, matchesData]) => {
         setPlayers(playersData);

@@ -17,7 +17,7 @@ export function BracketPage() {
 
   // Load tournaments
   useEffect(() => {
-    fetch('/data/tournaments.json')
+    fetch(`${import.meta.env.BASE_URL}data/tournaments.json`)
       .then(r => r.json())
       .then(data => {
         setTournaments(data);
@@ -64,7 +64,7 @@ export function BracketPage() {
     }
 
     setBracketLoading(true);
-    fetch(`/data/brackets/${selectedTournamentId}.json`)
+    fetch(`${import.meta.env.BASE_URL}data/brackets/${selectedTournamentId}.json`)
       .then(r => {
         if (!r.ok) {
           throw new Error('Bracket not found');
