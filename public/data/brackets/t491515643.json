@@ -1,0 +1,157 @@
+{
+  "name": "Berrettini M. d. Karatsev A.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Berrettini M.",
+    "loserName": "Karatsev A.",
+    "score": "6-1 3-6 7-6"
+  },
+  "children": [
+    {
+      "name": "Berrettini M. d. Daniel T.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Berrettini M.",
+        "loserName": "Daniel T.",
+        "score": "6-1 6-7 6-0"
+      },
+      "children": [
+        {
+          "name": "Berrettini M. d. Krajinovic F.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Berrettini M.",
+            "loserName": "Krajinovic F.",
+            "score": "6-4 6-4"
+          },
+          "children": [
+            {
+              "name": "Berrettini M.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Berrettini M.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Krajinovic F.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Krajinovic F.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Daniel T. d. Delbonis F.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Daniel T.",
+            "loserName": "Delbonis F.",
+            "score": "4-6 6-1 7-5"
+          },
+          "children": [
+            {
+              "name": "Daniel T.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Daniel T.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Delbonis F.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Delbonis F.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Karatsev A. d. Djokovic N.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Karatsev A.",
+        "loserName": "Djokovic N.",
+        "score": "7-5 4-6 6-4"
+      },
+      "children": [
+        {
+          "name": "Karatsev A. d. Mager G.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Karatsev A.",
+            "loserName": "Mager G.",
+            "score": "6-3 6-4"
+          },
+          "children": [
+            {
+              "name": "Karatsev A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Karatsev A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Mager G.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Mager G.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Djokovic N. d. Kecmanovic M.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Djokovic N.",
+            "loserName": "Kecmanovic M.",
+            "score": "6-1 6-3"
+          },
+          "children": [
+            {
+              "name": "Djokovic N.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Djokovic N.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Kecmanovic M.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Kecmanovic M.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

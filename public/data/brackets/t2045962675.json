@@ -1,0 +1,157 @@
+{
+  "name": "Ruud C. d. Norrie C.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Ruud C.",
+    "loserName": "Norrie C.",
+    "score": "6-0 6-2"
+  },
+  "children": [
+    {
+      "name": "Ruud C. d. Dimitrov G.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Ruud C.",
+        "loserName": "Dimitrov G.",
+        "score": "6-4 4-6 6-4"
+      },
+      "children": [
+        {
+          "name": "Ruud C. d. Sonego L.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Ruud C.",
+            "loserName": "Sonego L.",
+            "score": "6-1 6-4"
+          },
+          "children": [
+            {
+              "name": "Ruud C.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Ruud C.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Sonego L.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Sonego L.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Dimitrov G. d. Karatsev A.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Dimitrov G.",
+            "loserName": "Karatsev A.",
+            "score": "6-1 1-6 6-2"
+          },
+          "children": [
+            {
+              "name": "Dimitrov G.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Dimitrov G.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Karatsev A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Karatsev A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Norrie C. d. Rublev A.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Norrie C.",
+        "loserName": "Rublev A.",
+        "score": "3-6 6-3 6-4"
+      },
+      "children": [
+        {
+          "name": "Norrie C. d. Shapovalov D.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Norrie C.",
+            "loserName": "Shapovalov D.",
+            "score": "6-3 6-1"
+          },
+          "children": [
+            {
+              "name": "Norrie C.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Norrie C.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Shapovalov D.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Shapovalov D.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Rublev A. d. Schwartzman D.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Rublev A.",
+            "loserName": "Schwartzman D.",
+            "score": "6-1 7-5"
+          },
+          "children": [
+            {
+              "name": "Rublev A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Rublev A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Schwartzman D.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Schwartzman D.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

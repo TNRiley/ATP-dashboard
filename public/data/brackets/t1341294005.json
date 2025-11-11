@@ -1,0 +1,157 @@
+{
+  "name": "Berrettini M. d. Carballes Baena R.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Berrettini M.",
+    "loserName": "Carballes Baena R.",
+    "score": "7-5 6-2"
+  },
+  "children": [
+    {
+      "name": "Berrettini M. d. Navone M.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Berrettini M.",
+        "loserName": "Navone M.",
+        "score": "6-7 6-3 6-2"
+      },
+      "children": [
+        {
+          "name": "Berrettini M. d. Sonego L.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Berrettini M.",
+            "loserName": "Sonego L.",
+            "score": "6-3 7-6"
+          },
+          "children": [
+            {
+              "name": "Berrettini M.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Berrettini M.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Sonego L.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Sonego L.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Navone M. d. Vukic A.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Navone M.",
+            "loserName": "Vukic A.",
+            "score": "6-2 6-4"
+          },
+          "children": [
+            {
+              "name": "Navone M.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Navone M.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Vukic A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Vukic A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Carballes Baena R. d. Kotov P.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Carballes Baena R.",
+        "loserName": "Kotov P.",
+        "score": "6-4 6-2"
+      },
+      "children": [
+        {
+          "name": "Carballes Baena R. d. Moreno De Alboran N.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Carballes Baena R.",
+            "loserName": "Moreno De Alboran N.",
+            "score": "6-4 4-6 6-4"
+          },
+          "children": [
+            {
+              "name": "Carballes Baena R.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Carballes Baena R.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Moreno De Alboran N.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Moreno De Alboran N.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Kotov P. d. Fognini F.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Kotov P.",
+            "loserName": "Fognini F.",
+            "score": "6-1 6-2"
+          },
+          "children": [
+            {
+              "name": "Kotov P.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Kotov P.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Fognini F.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Fognini F.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

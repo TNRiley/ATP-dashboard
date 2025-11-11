@@ -1,0 +1,157 @@
+{
+  "name": "Bautista Agut R. d. Basilashvili N.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Bautista Agut R.",
+    "loserName": "Basilashvili N.",
+    "score": "6-3 6-4"
+  },
+  "children": [
+    {
+      "name": "Bautista Agut R. d. Khachanov K.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Bautista Agut R.",
+        "loserName": "Khachanov K.",
+        "score": "2-6 6-3 7-5"
+      },
+      "children": [
+        {
+          "name": "Bautista Agut R. d. Davidovich Fokina A.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Bautista Agut R.",
+            "loserName": "Davidovich Fokina A.",
+            "score": "6-1 6-1"
+          },
+          "children": [
+            {
+              "name": "Bautista Agut R.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Bautista Agut R.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Davidovich Fokina A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Davidovich Fokina A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Khachanov K. d. Cilic M.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Khachanov K.",
+            "loserName": "Cilic M.",
+            "score": "3-6 6-3 6-4"
+          },
+          "children": [
+            {
+              "name": "Khachanov K.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Khachanov K.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Cilic M.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Cilic M.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Basilashvili N. d. Rinderknech A.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Basilashvili N.",
+        "loserName": "Rinderknech A.",
+        "score": "6-4 6-2"
+      },
+      "children": [
+        {
+          "name": "Basilashvili N. d. Fucsovics M.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Basilashvili N.",
+            "loserName": "Fucsovics M.",
+            "score": "1-6 6-3 7-5"
+          },
+          "children": [
+            {
+              "name": "Basilashvili N.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Basilashvili N.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Fucsovics M.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Fucsovics M.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Rinderknech A. d. Shapovalov D.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Rinderknech A.",
+            "loserName": "Shapovalov D.",
+            "score": "6-4 6-4"
+          },
+          "children": [
+            {
+              "name": "Rinderknech A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Rinderknech A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Shapovalov D.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Shapovalov D.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

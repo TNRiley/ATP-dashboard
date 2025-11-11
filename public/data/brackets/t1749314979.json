@@ -1,0 +1,157 @@
+{
+  "name": "Machac T. d. Davidovich Fokina A.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Machac T.",
+    "loserName": "Davidovich Fokina A.",
+    "score": "7-6 6-2"
+  },
+  "children": [
+    {
+      "name": "Machac T. d. Nakashima B.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Machac T.",
+        "loserName": "Nakashima B.",
+        "score": "6-4 1-6 6-4"
+      },
+      "children": [
+        {
+          "name": "Machac T. d. Tien L.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Machac T.",
+            "loserName": "Tien L.",
+            "score": "6-3 7-5"
+          },
+          "children": [
+            {
+              "name": "Machac T.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Machac T.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Tien L.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Tien L.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Nakashima B. d. Goffin D.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Nakashima B.",
+            "loserName": "Goffin D.",
+            "score": "7-6 6-2"
+          },
+          "children": [
+            {
+              "name": "Nakashima B.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Nakashima B.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Goffin D.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Goffin D.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Davidovich Fokina A. d. Shapovalov D.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Davidovich Fokina A.",
+        "loserName": "Shapovalov D.",
+        "score": "7-6 7-6"
+      },
+      "children": [
+        {
+          "name": "Davidovich Fokina A. d. Pacheco Mendez R.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Davidovich Fokina A.",
+            "loserName": "Pacheco Mendez R.",
+            "score": "6-2 6-2"
+          },
+          "children": [
+            {
+              "name": "Davidovich Fokina A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Davidovich Fokina A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Pacheco Mendez R.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Pacheco Mendez R.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Shapovalov D. d. Giron M.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Shapovalov D.",
+            "loserName": "Giron M.",
+            "score": "4-6 6-3 6-2"
+          },
+          "children": [
+            {
+              "name": "Shapovalov D.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Shapovalov D.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Giron M.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Giron M.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

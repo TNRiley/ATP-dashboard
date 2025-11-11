@@ -1,0 +1,157 @@
+{
+  "name": "Tsitsipas S. d. Ruud C.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Tsitsipas S.",
+    "loserName": "Ruud C.",
+    "score": "6-1 6-4"
+  },
+  "children": [
+    {
+      "name": "Tsitsipas S. d. Sinner J.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Tsitsipas S.",
+        "loserName": "Sinner J.",
+        "score": "6-4 3-6 6-4"
+      },
+      "children": [
+        {
+          "name": "Tsitsipas S. d. Khachanov K.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Tsitsipas S.",
+            "loserName": "Khachanov K.",
+            "score": "6-4 6-2"
+          },
+          "children": [
+            {
+              "name": "Tsitsipas S.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Tsitsipas S.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Khachanov K.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Khachanov K.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Sinner J. d. Rune H.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Sinner J.",
+            "loserName": "Rune H.",
+            "score": "6-4 6-7 6-3"
+          },
+          "children": [
+            {
+              "name": "Sinner J.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Sinner J.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Rune H.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Rune H.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ruud C. d. Djokovic N.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Ruud C.",
+        "loserName": "Djokovic N.",
+        "score": "6-4 1-6 6-4"
+      },
+      "children": [
+        {
+          "name": "Ruud C. d. Humbert U.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Ruud C.",
+            "loserName": "Humbert U.",
+            "score": "6-3 4-6 6-1"
+          },
+          "children": [
+            {
+              "name": "Ruud C.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Ruud C.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Humbert U.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Humbert U.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Djokovic N. d. De Minaur A.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Djokovic N.",
+            "loserName": "De Minaur A.",
+            "score": "7-5 6-4"
+          },
+          "children": [
+            {
+              "name": "Djokovic N.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Djokovic N.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "De Minaur A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "De Minaur A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

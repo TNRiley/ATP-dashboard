@@ -1,0 +1,157 @@
+{
+  "name": "Alcaraz C. d. Fritz T.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Alcaraz C.",
+    "loserName": "Fritz T.",
+    "score": "6-4 6-4"
+  },
+  "children": [
+    {
+      "name": "Alcaraz C. d. Ruud C.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Alcaraz C.",
+        "loserName": "Ruud C.",
+        "score": "3-6 6-3 6-4"
+      },
+      "children": [
+        {
+          "name": "Alcaraz C. d. Nakashima B.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Alcaraz C.",
+            "loserName": "Nakashima B.",
+            "score": "6-2 6-4"
+          },
+          "children": [
+            {
+              "name": "Alcaraz C.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Alcaraz C.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Nakashima B.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Nakashima B.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Ruud C. d. Vukic A.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Ruud C.",
+            "loserName": "Vukic A.",
+            "score": "6-3 6-2"
+          },
+          "children": [
+            {
+              "name": "Ruud C.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Ruud C.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Vukic A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Vukic A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fritz T. d. Brooksby J.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Fritz T.",
+        "loserName": "Brooksby J.",
+        "score": "6-4 6-3"
+      },
+      "children": [
+        {
+          "name": "Fritz T. d. Korda S.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Fritz T.",
+            "loserName": "Korda S.",
+            "score": "6-3 6-7 6-3"
+          },
+          "children": [
+            {
+              "name": "Fritz T.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Fritz T.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Korda S.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Korda S.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Brooksby J. d. Rune H.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Brooksby J.",
+            "loserName": "Rune H.",
+            "score": "6-3 6-3"
+          },
+          "children": [
+            {
+              "name": "Brooksby J.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Brooksby J.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Rune H.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Rune H.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

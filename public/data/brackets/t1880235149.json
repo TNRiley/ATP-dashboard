@@ -1,0 +1,157 @@
+{
+  "name": "Cerundolo J.M. d. Ramos-Vinolas A.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Cerundolo J.M.",
+    "loserName": "Ramos-Vinolas A.",
+    "score": "6-0 2-6 6-2"
+  },
+  "children": [
+    {
+      "name": "Cerundolo J.M. d. Coria F.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Cerundolo J.M.",
+        "loserName": "Coria F.",
+        "score": "6-4 4-6 6-2"
+      },
+      "children": [
+        {
+          "name": "Cerundolo J.M. d. Monteiro T.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Cerundolo J.M.",
+            "loserName": "Monteiro T.",
+            "score": "6-2 2-6 6-3"
+          },
+          "children": [
+            {
+              "name": "Cerundolo J.M.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Cerundolo J.M.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Monteiro T.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Monteiro T.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Coria F. d. Paire B.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Coria F.",
+            "loserName": "Paire B.",
+            "score": "6-3 6-2"
+          },
+          "children": [
+            {
+              "name": "Coria F.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Coria F.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Paire B.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Paire B.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ramos-Vinolas A. d. Bagnis F.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Ramos-Vinolas A.",
+        "loserName": "Bagnis F.",
+        "score": "7-5 5-7 6-3"
+      },
+      "children": [
+        {
+          "name": "Ramos-Vinolas A. d. Schwartzman D.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Ramos-Vinolas A.",
+            "loserName": "Schwartzman D.",
+            "score": "6-1 4-6 6-3"
+          },
+          "children": [
+            {
+              "name": "Ramos-Vinolas A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Ramos-Vinolas A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Schwartzman D.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Schwartzman D.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Bagnis F. d. Kovalik J.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Bagnis F.",
+            "loserName": "Kovalik J.",
+            "score": "6-1 6-2"
+          },
+          "children": [
+            {
+              "name": "Bagnis F.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Bagnis F.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Kovalik J.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Kovalik J.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

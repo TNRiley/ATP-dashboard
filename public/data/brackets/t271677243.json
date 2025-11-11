@@ -1,0 +1,157 @@
+{
+  "name": "Auger-Aliassime F. d. Lehecka J.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Auger-Aliassime F.",
+    "loserName": "Lehecka J.",
+    "score": "7-6 6-7 6-2"
+  },
+  "children": [
+    {
+      "name": "Auger-Aliassime F. d. Collignon R.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Auger-Aliassime F.",
+        "loserName": "Collignon R.",
+        "score": "7-6 6-4"
+      },
+      "children": [
+        {
+          "name": "Auger-Aliassime F. d. Spizzirri E.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Auger-Aliassime F.",
+            "loserName": "Spizzirri E.",
+            "score": "6-2 7-6"
+          },
+          "children": [
+            {
+              "name": "Auger-Aliassime F.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Auger-Aliassime F.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Spizzirri E.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Spizzirri E.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Collignon R. d. Davidovich Fokina A.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Collignon R.",
+            "loserName": "Davidovich Fokina A.",
+            "score": "7-6 6-1"
+          },
+          "children": [
+            {
+              "name": "Collignon R.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Collignon R.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Davidovich Fokina A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Davidovich Fokina A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lehecka J. d. Mpetshi G.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Lehecka J.",
+        "loserName": "Mpetshi G.",
+        "score": "7-6 7-6"
+      },
+      "children": [
+        {
+          "name": "Lehecka J. d. Bonzi B.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Lehecka J.",
+            "loserName": "Bonzi B.",
+            "score": "6-7 6-1 4-1 (RET)"
+          },
+          "children": [
+            {
+              "name": "Lehecka J.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Lehecka J.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Bonzi B.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Bonzi B.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Mpetshi G. d. Musetti L.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Mpetshi G.",
+            "loserName": "Musetti L.",
+            "score": "6-4 7-6"
+          },
+          "children": [
+            {
+              "name": "Mpetshi G.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Mpetshi G.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Musetti L.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Musetti L.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "atp-matches-analytics",
+  "version": "1.0.0",
+  "description": "ATP 2025 singles match analytics dashboard",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "ingest": "tsx src/scripts/ingest.ts",
+    "add-common-names": "tsx src/scripts/addCommonNames.ts"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.1",
+    "d3": "^7.8.5",
+    "d3-dsv": "^3.0.1",
+    "zustand": "^4.4.7",
+    "papaparse": "^5.4.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.43",
+    "@types/react-dom": "^18.2.17",
+    "@types/d3": "^7.4.3",
+    "@types/papaparse": "^5.3.14",
+    "@vitejs/plugin-react": "^4.2.1",
+    "typescript": "^5.3.3",
+    "vite": "^5.0.8",
+    "tsx": "^4.7.0"
+  }
+}
+

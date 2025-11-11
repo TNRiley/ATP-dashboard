@@ -1,0 +1,157 @@
+{
+  "name": "Baez S. d. Lehecka J.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Baez S.",
+    "loserName": "Lehecka J.",
+    "score": "6-4 6-3"
+  },
+  "children": [
+    {
+      "name": "Baez S. d. Coric B.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Baez S.",
+        "loserName": "Coric B.",
+        "score": "6-3 6-7 7-6"
+      },
+      "children": [
+        {
+          "name": "Baez S. d. Djere L.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Baez S.",
+            "loserName": "Djere L.",
+            "score": "6-3 6-0"
+          },
+          "children": [
+            {
+              "name": "Baez S.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Baez S.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Djere L.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Djere L.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Coric B. d. Cerundolo J.M.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Coric B.",
+            "loserName": "Cerundolo J.M.",
+            "score": "6-3 6-1"
+          },
+          "children": [
+            {
+              "name": "Coric B.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Coric B.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Cerundolo J.M.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Cerundolo J.M.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lehecka J. d. Korda S.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Lehecka J.",
+        "loserName": "Korda S.",
+        "score": ""
+      },
+      "children": [
+        {
+          "name": "Lehecka J. d. Purcell M.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Lehecka J.",
+            "loserName": "Purcell M.",
+            "score": "7-6 6-4"
+          },
+          "children": [
+            {
+              "name": "Lehecka J.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Lehecka J.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Purcell M.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Purcell M.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Korda S. d. Gasquet R.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Korda S.",
+            "loserName": "Gasquet R.",
+            "score": "4-6 6-1 7-6"
+          },
+          "children": [
+            {
+              "name": "Korda S.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Korda S.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Gasquet R.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Gasquet R.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

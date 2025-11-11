@@ -1,0 +1,157 @@
+{
+  "name": "Griekspoor T. d. Moutet C.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Griekspoor T.",
+    "loserName": "Moutet C.",
+    "score": "7-5 7-6"
+  },
+  "children": [
+    {
+      "name": "Griekspoor T. d. Auger-Aliassime F.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Griekspoor T.",
+        "loserName": "Auger-Aliassime F.",
+        "score": "6-4 6-4"
+      },
+      "children": [
+        {
+          "name": "Griekspoor T. d. Diallo G.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Griekspoor T.",
+            "loserName": "Diallo G.",
+            "score": "6-4 6-4"
+          },
+          "children": [
+            {
+              "name": "Griekspoor T.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Griekspoor T.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Diallo G.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Diallo G.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Auger-Aliassime F. d. Medjedovic H.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Auger-Aliassime F.",
+            "loserName": "Medjedovic H.",
+            "score": "3-6 6-1 6-4"
+          },
+          "children": [
+            {
+              "name": "Auger-Aliassime F.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Auger-Aliassime F.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Medjedovic H.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Medjedovic H.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Moutet C. d. Michelsen A.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Moutet C.",
+        "loserName": "Michelsen A.",
+        "score": "6-4 7-6"
+      },
+      "children": [
+        {
+          "name": "Moutet C. d. Tien L.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Moutet C.",
+            "loserName": "Tien L.",
+            "score": "6-2 7-5"
+          },
+          "children": [
+            {
+              "name": "Moutet C.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Moutet C.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Tien L.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Tien L.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Michelsen A. d. Bautista Agut R.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Michelsen A.",
+            "loserName": "Bautista Agut R.",
+            "score": "6-4 7-6"
+          },
+          "children": [
+            {
+              "name": "Michelsen A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Michelsen A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Bautista Agut R.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Bautista Agut R.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

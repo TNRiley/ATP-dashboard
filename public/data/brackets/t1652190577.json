@@ -1,0 +1,157 @@
+{
+  "name": "Jarry N. d. Dimitrov G.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Jarry N.",
+    "loserName": "Dimitrov G.",
+    "score": "7-6 6-1"
+  },
+  "children": [
+    {
+      "name": "Jarry N. d. Zverev A.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Jarry N.",
+        "loserName": "Zverev A.",
+        "score": "7-6 6-3"
+      },
+      "children": [
+        {
+          "name": "Jarry N. d. Ruud C.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Jarry N.",
+            "loserName": "Ruud C.",
+            "score": "3-6 7-6 7-5"
+          },
+          "children": [
+            {
+              "name": "Jarry N.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Jarry N.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Ruud C.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Ruud C.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Zverev A. d. Wu Y.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Zverev A.",
+            "loserName": "Wu Y.",
+            "score": "4-1 (RET)"
+          },
+          "children": [
+            {
+              "name": "Zverev A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Zverev A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Wu Y.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Wu Y.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dimitrov G. d. Fritz T.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Dimitrov G.",
+        "loserName": "Fritz T.",
+        "score": "3-6 7-5 7-6"
+      },
+      "children": [
+        {
+          "name": "Dimitrov G. d. O Connell C.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Dimitrov G.",
+            "loserName": "O Connell C.",
+            "score": "6-7 7-5 6-4"
+          },
+          "children": [
+            {
+              "name": "Dimitrov G.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Dimitrov G.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "O Connell C.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "O Connell C.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Fritz T. d. Ivashka I.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Fritz T.",
+            "loserName": "Ivashka I.",
+            "score": "6-1 6-2"
+          },
+          "children": [
+            {
+              "name": "Fritz T.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Fritz T.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Ivashka I.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Ivashka I.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

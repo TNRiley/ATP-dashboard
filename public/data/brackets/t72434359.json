@@ -1,0 +1,157 @@
+{
+  "name": "Humbert U. d. Bublik A.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Humbert U.",
+    "loserName": "Bublik A.",
+    "score": "6-4 6-3"
+  },
+  "children": [
+    {
+      "name": "Humbert U. d. Medvedev D.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Humbert U.",
+        "loserName": "Medvedev D.",
+        "score": "7-5 6-3"
+      },
+      "children": [
+        {
+          "name": "Humbert U. d. Hurkacz H.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Humbert U.",
+            "loserName": "Hurkacz H.",
+            "score": "3-6 7-6 6-3"
+          },
+          "children": [
+            {
+              "name": "Humbert U.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Humbert U.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Hurkacz H.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Hurkacz H.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Medvedev D. d. Davidovich Fokina A.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Medvedev D.",
+            "loserName": "Davidovich Fokina A.",
+            "score": "6-2 6-3"
+          },
+          "children": [
+            {
+              "name": "Medvedev D.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Medvedev D.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Davidovich Fokina A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Davidovich Fokina A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bublik A. d. Rublev A.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Bublik A.",
+        "loserName": "Rublev A.",
+        "score": "6-7 7-6 6-5"
+      },
+      "children": [
+        {
+          "name": "Bublik A. d. Lehecka J.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Bublik A.",
+            "loserName": "Lehecka J.",
+            "score": "6-4 4-1 (RET)"
+          },
+          "children": [
+            {
+              "name": "Bublik A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Bublik A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Lehecka J.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Lehecka J.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Rublev A. d. Korda S.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Rublev A.",
+            "loserName": "Korda S.",
+            "score": "6-4 4-3 (RET)"
+          },
+          "children": [
+            {
+              "name": "Rublev A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Rublev A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Korda S.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Korda S.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

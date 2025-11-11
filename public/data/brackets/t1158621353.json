@@ -1,0 +1,157 @@
+{
+  "name": "Karatsev A. d. Murray A.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Karatsev A.",
+    "loserName": "Murray A.",
+    "score": "6-3 6-3"
+  },
+  "children": [
+    {
+      "name": "Karatsev A. d. Evans D.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Karatsev A.",
+        "loserName": "Evans D.",
+        "score": "6-3 6-7 6-3"
+      },
+      "children": [
+        {
+          "name": "Karatsev A. d. Sonego L.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Karatsev A.",
+            "loserName": "Sonego L.",
+            "score": "6-2 3-6 6-2"
+          },
+          "children": [
+            {
+              "name": "Karatsev A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Karatsev A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Sonego L.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Sonego L.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Evans D. d. Cressy M.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Evans D.",
+            "loserName": "Cressy M.",
+            "score": "6-4 7-6"
+          },
+          "children": [
+            {
+              "name": "Evans D.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Evans D.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Cressy M.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Cressy M.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Murray A. d. Opelka R.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Murray A.",
+        "loserName": "Opelka R.",
+        "score": "6-7 6-4 6-4"
+      },
+      "children": [
+        {
+          "name": "Murray A. d. Goffin D.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Murray A.",
+            "loserName": "Goffin D.",
+            "score": "6-2 (RET)"
+          },
+          "children": [
+            {
+              "name": "Murray A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Murray A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Goffin D.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Goffin D.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Opelka R. d. Nakashima B.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Opelka R.",
+            "loserName": "Nakashima B.",
+            "score": "7-6 6-2"
+          },
+          "children": [
+            {
+              "name": "Opelka R.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Opelka R.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Nakashima B.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Nakashima B.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

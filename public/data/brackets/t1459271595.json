@@ -1,0 +1,73 @@
+{
+  "name": "Sinner J. d. Fritz T.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Sinner J.",
+    "loserName": "Fritz T.",
+    "score": "6-4 6-4"
+  },
+  "children": [
+    {
+      "name": "Sinner J. d. Ruud C.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Sinner J.",
+        "loserName": "Ruud C.",
+        "score": "6-1 6-2"
+      },
+      "children": [
+        {
+          "name": "Sinner J.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Sinner J.",
+            "loserName": "BYE",
+            "score": "BYE"
+          },
+          "children": []
+        },
+        {
+          "name": "Ruud C.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Ruud C.",
+            "loserName": "BYE",
+            "score": "BYE"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Fritz T. d. Zverev A.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Fritz T.",
+        "loserName": "Zverev A.",
+        "score": "6-3 3-6 7-6"
+      },
+      "children": [
+        {
+          "name": "Fritz T.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Fritz T.",
+            "loserName": "BYE",
+            "score": "BYE"
+          },
+          "children": []
+        },
+        {
+          "name": "Zverev A.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Zverev A.",
+            "loserName": "BYE",
+            "score": "BYE"
+          },
+          "children": []
+        }
+      ]
+    }
+  ]
+}

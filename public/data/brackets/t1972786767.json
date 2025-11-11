@@ -1,0 +1,157 @@
+{
+  "name": "Sinner J. d. Schwartzman D.",
+  "attributes": {
+    "round": "F",
+    "winnerName": "Sinner J.",
+    "loserName": "Schwartzman D.",
+    "score": "6-2 6-2"
+  },
+  "children": [
+    {
+      "name": "Sinner J. d. Harris L.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Sinner J.",
+        "loserName": "Harris L.",
+        "score": "6-2 6-2"
+      },
+      "children": [
+        {
+          "name": "Sinner J. d. Rinderknech A.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Sinner J.",
+            "loserName": "Rinderknech A.",
+            "score": "6-4 6-2"
+          },
+          "children": [
+            {
+              "name": "Sinner J.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Sinner J.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Rinderknech A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Rinderknech A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Harris L. d. Fucsovics M.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Harris L.",
+            "loserName": "Fucsovics M.",
+            "score": "6-2 7-5"
+          },
+          "children": [
+            {
+              "name": "Harris L.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Harris L.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Fucsovics M.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Fucsovics M.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Schwartzman D. d. Brooksby J.",
+      "attributes": {
+        "round": "SF",
+        "winnerName": "Schwartzman D.",
+        "loserName": "Brooksby J.",
+        "score": "6-4 6-0"
+      },
+      "children": [
+        {
+          "name": "Schwartzman D. d. Nakashima B.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Schwartzman D.",
+            "loserName": "Nakashima B.",
+            "score": "6-4 6-2"
+          },
+          "children": [
+            {
+              "name": "Schwartzman D.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Schwartzman D.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Nakashima B.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Nakashima B.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Brooksby J. d. Davidovich Fokina A.",
+          "attributes": {
+            "round": "QF",
+            "winnerName": "Brooksby J.",
+            "loserName": "Davidovich Fokina A.",
+            "score": "7-5 6-0"
+          },
+          "children": [
+            {
+              "name": "Brooksby J.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Brooksby J.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            },
+            {
+              "name": "Davidovich Fokina A.",
+              "attributes": {
+                "round": "4R",
+                "winnerName": "Davidovich Fokina A.",
+                "loserName": "BYE",
+                "score": "BYE"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
